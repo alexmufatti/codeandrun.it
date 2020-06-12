@@ -1,0 +1,82 @@
+baseURL = "https://alexmufatti.it/"
+languageCode = "it"
+title = "Alex Mufatti"
+theme = "terminal"
+disqusShortname = "alexmufatti"
+googleAnalytics = "UA-21196458-5"
+
+[params]
+    description = "Hands on Software"
+
+    # ["orange", "blue", "red", "green", "pink"]
+    themeColor = "blue"
+
+    # if you set this to 0, only submenu trigger will be visible
+    showMenuItems = 3
+
+    # show selector to switch language
+    showLanguageSelector = false
+
+    # set theme to full screen width
+    fullWidthTheme = false
+
+    # center theme with default width
+    centerTheme = true
+
+    # set a custom favicon (default is a `themeColor` square)
+    favicon = "favicon.ico"
+
+    # set post to show the last updated
+    # If you use git, you can set `enableGitInfo` to `true` and then post will automatically get the last updated
+    showLastUpdated = false
+    # Provide a string as a prefix for the last update date. By default, it looks like this: 2020-xx-xx [Updated: 2020-xx-xx] :: Author
+    # updatedDatePrefix = "Updated"
+
+    # set all headings to their default size (depending on browser settings)
+    # it's set to `true` by default
+    oneHeadingSize = false
+
+[languages]
+[languages.en]
+  languageName = "English"
+  title = "Alex Mufatti"
+  subtitle = "Hands on Software"
+  owner = "Alex Mufatti"
+  keywords = "software development, coding, running, corsa"
+  copyright = "Alex Mufatti"
+  menuMore = "Show more"
+  readMore = "Read more"
+  readOtherPosts = "Read other posts"
+  missingContentMessage = "Page not found..."
+  missingBackButtonLabel = "Back to home page"
+
+
+[languages.en.params.logo]
+    logoText = "Alex Mufatti"
+    logoHomeLink = "/"
+
+[languages.en.menu]
+    main = [
+        { identifier = "1home", name = "Home", url = "/" },
+        { identifier = "3about", name = "About", url = "/about" },
+        { identifier = "2conacts", name = "Contacts", url = "/contacts" }
+
+    ]
+
+[permalinks]
+  posts = "/:year/:month/:day/:filename/"
+
+[params.Links]
+    main = [
+                {name = "Github", URL = "https://github.com/alexmufatti/", icon = "fa-github" },
+                {name = "LinkedIn", URL = "https://www.linkedin.com/in/amufatti/", icon = "fa-linkedin" },
+                {name = "Strava", URL = "https://www.strava.com/athletes/12353579", icon = "fa-strava" },
+                {name = "Twitter", URL = "https://twitter.com/alexmufatti", icon = "fa-twitter" },
+                {name = "Instagram", URL = "https://www.instagram.com/alexmufatti", icon = "fa-instagram" },
+                {name = "StackOverflow", URL = "https://stackoverflow.com/users/606622/alex-mufatti", icon = "fa-stack-overflow" }
+
+              ]
+
+[params.twitter]
+    creator = "alexmufatti"
+    site = "alexmufatti"
