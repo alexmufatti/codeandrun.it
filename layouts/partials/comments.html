@@ -1,1 +1,3 @@
-{{ template "_internal/disqus.html" . }}
+{{ if not (.Params.disable_comments) }}
+  {{ template "_internal/disqus.html" . }}
+{{ end }}

@@ -12,7 +12,7 @@ googleAnalytics = "UA-21196458-5"
     themeColor = "blue"
 
     # if you set this to 0, only submenu trigger will be visible
-    showMenuItems = 3
+    showMenuItems = 5
 
     # show selector to switch language
     showLanguageSelector = false
@@ -35,30 +35,27 @@ googleAnalytics = "UA-21196458-5"
     # set all headings to their default size (depending on browser settings)
     # it's set to `true` by default
     oneHeadingSize = false
-
-[languages]
-[languages.en]
-  languageName = "English"
-  title = "Alex Mufatti"
-  subtitle = "Hands on Software"
-  owner = "Alex Mufatti"
-  keywords = "software development, coding, running, corsa"
-  menuMore = "Show more"
-  readMore = "Read more"
-  readOtherPosts = "Read other posts"
-  missingContentMessage = "Page not found..."
-  missingBackButtonLabel = "Back to home page"
+    subtitle = "Hands on Software"
+    owner = "Alex Mufatti"
+    keywords = "software development, coding, running, corsa"
+    menuMore = "Show more"
+    readMore = "Read more"
+    readOtherPosts = "Read other posts"
+    missingContentMessage = "Page not found..."
+    missingBackButtonLabel = "Back to home page"
 
 
-[languages.en.params.logo]
+[params.logo]
     logoText = "Alex Mufatti"
     logoHomeLink = "/"
+    logoSubText = "Hands on Software"
 
-[languages.en.menu]
+[menu]
     main = [
-        { identifier = "1home", name = "Home", url = "/" },
-        { identifier = "3about", name = "About", url = "/about" },
-        { identifier = "2conacts", name = "Contacts", url = "/contacts" }
+        { identifier = "1home", name = "Home", url = "/", weight=10 },
+        { identifier = "3about", name = "About", url = "/about", weight=20  },
+        { identifier = "2conacts", name = "Contacts", url = "/contacts", weight=30  },
+        { identifier = "tags", name = "Tags", url = "/tags", weight=40  }
 
     ]
 
@@ -79,3 +76,6 @@ googleAnalytics = "UA-21196458-5"
 [params.twitter]
     creator = "alexmufatti"
     site = "alexmufatti"
+
+[taxonomies]
+    tag="tags"
