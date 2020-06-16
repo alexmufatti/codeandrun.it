@@ -1,5 +1,5 @@
 baseURL = "https://alexmufatti.it/"
-languageCode = "it"
+DefaultContentLanguage = "it"
 title = "Alex Mufatti"
 theme = "hugo-kiera"
 disqusShortname = "alexmufatti"
