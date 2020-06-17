@@ -1,8 +1,3 @@
-{{ if .IsNamedParams }}
-<img src="{{.Get "src" }}" alt="">
-{{ else }}
-<img src="{{.Get 0}}" alt="">
-{{ end }}
 <div class='strava-wrapper'>
   <iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no'
           src="https://www.strava.com/activities/{{.Get "id" }}/embed/{{.Get "embedId" }}">
