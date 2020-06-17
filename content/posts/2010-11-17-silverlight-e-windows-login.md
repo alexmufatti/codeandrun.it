@@ -1,5 +1,6 @@
 ---
 title: Silverlight e Windows Login
+slug: silverlight-e-windows-login
 tags:
 - Computers
 - Programming

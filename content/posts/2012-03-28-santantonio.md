@@ -1,5 +1,6 @@
 ---
 title: Sant'Antonio
+slug: santantonio
 tags:
 - Bike
 - Instagram

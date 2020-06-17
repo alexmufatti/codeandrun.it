@@ -1,5 +1,6 @@
 ---
 title: Migrazione ADSL
+slug: migrazion-adsl
 tags:
 - Computers
 - Vita

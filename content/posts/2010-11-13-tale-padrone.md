@@ -1,5 +1,6 @@
 ---
 title: Tale padrone...
+slug: tale-padrone
 tags:
 - Mici
 id: 176

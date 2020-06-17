@@ -1,5 +1,6 @@
 ---
 title: My new wallpaper
+slug: my-new-wallpaper
 tags:
 - Bike
 - Computers

@@ -1,5 +1,6 @@
 ---
 title: 'Che vista! #pizzoni #b'
+slug: che-vista-pizzoni-b
 tags:
 - Instagram
 id: 770

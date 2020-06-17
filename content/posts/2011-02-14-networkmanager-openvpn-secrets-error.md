@@ -1,5 +1,6 @@
 ---
 title: 'NetworkManager: openvpn secrets error'
+slug: networkmanager-openvpn-secrets-error
 tags:
 - Computers
 - Linux

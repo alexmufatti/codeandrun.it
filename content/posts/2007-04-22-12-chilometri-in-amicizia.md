@@ -1,5 +1,6 @@
 ---
 title: 12 chilometri in amicizia
+slug: 12-chilometri-in-amicizia
 tags:
 - Vita
 id: 35

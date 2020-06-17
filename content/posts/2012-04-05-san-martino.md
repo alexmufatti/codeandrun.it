@@ -1,5 +1,6 @@
 ---
 title: San Martino
+slug: san-martino
 tags:
 - Bike
 - Garmin

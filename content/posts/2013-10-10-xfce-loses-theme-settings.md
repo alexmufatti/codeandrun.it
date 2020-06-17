@@ -1,5 +1,6 @@
 ---
 title: Xfce loses theme settings
+slug: xfce-loses-theme-settings
 tags:
 - bug
 - error

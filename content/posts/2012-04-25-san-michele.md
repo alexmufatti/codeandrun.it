@@ -1,5 +1,6 @@
 ---
 title: San Michele
+slug: san-michele
 tags:
 - Instagram
 id: 556

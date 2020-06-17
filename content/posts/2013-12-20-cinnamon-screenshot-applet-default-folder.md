@@ -1,5 +1,6 @@
 ---
 title: Cinnamon screenshot applet default folder
+slug: cinnamon-screenshot-applet-default-folder
 tags:
 - Linux
 - Mint

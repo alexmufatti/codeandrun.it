@@ -1,5 +1,6 @@
 ---
 title: Cartello stradale a Lecco...
+slug: cartello-stradale-a-lecco
 tags:
 - Vita
 id: 119

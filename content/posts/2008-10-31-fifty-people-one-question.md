@@ -1,5 +1,6 @@
 ---
 title: Fifty people one question
+slug: fifty-people-one-question
 tags:
 - Vita
 id: 99

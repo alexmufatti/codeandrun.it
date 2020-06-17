@@ -1,5 +1,6 @@
 ---
 title: 'Arcumeggia #b'
+slug: arcumeggia-b
 tags:
 - Instagram
 id: 690

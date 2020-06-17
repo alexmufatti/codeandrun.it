@@ -1,5 +1,6 @@
 ---
 title: Sublime Text
+slug: sublime-text
 tags:
 - editor
 - Linux

@@ -1,5 +1,6 @@
 ---
 title: 'Cloudy lake #b'
+slug: cloudy-lake-b
 tags:
 - Bike
 - Instagram

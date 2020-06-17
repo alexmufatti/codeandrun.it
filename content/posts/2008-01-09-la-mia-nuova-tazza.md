@@ -1,5 +1,6 @@
 ---
 title: La mia nuova tazza...
+slug: la-mia-nuova-tazza
 tags:
 - Vita
 id: 51

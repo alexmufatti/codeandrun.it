@@ -1,5 +1,6 @@
 ---
 title: Di ritorno dalle vacanze
+slug: di-ritorno-dalle-vacanze
 tags:
 - Vita
 id: 26

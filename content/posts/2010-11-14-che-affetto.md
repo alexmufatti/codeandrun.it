@@ -1,5 +1,6 @@
 ---
 title: Che affetto
+slug: che-affetto
 tags:
 - Mici
 id: 180

@@ -1,5 +1,6 @@
 ---
 title: Google trascendentale
+slug: google-trascendentale
 tags:
 - Computers
 - Vita

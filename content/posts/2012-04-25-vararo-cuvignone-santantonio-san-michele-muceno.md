@@ -1,5 +1,6 @@
 ---
 title: Vararo - Cuvignone - Sant'Antonio - San Michele - Muceno
+slug: vararo-cuvignone-santantonio-san-michele-muceno
 tags:
 - Bike
 - Garmin

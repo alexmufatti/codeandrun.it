@@ -1,5 +1,6 @@
 ---
 title: Jeffery Deaver - Il silenzio dei rapiti
+slug: il-silenzio-dei-rapiti
 tags:
 - Books
 id: 10

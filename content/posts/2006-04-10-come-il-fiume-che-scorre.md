@@ -1,5 +1,6 @@
 ---
 title: Paulo Coelho - Come il fiume che scorre
+slug: come-il-fiume-che-scorre
 tags:
 - Books
 id: 9

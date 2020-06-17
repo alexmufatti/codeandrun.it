@@ -1,5 +1,6 @@
 ---
 title: Automattic’s Worldwide WP 5k
+slug: automattics-worldwide-wp-5k
 tags:
 - Bike
 - Garmin

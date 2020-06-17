@@ -1,5 +1,6 @@
 ---
 title: Aggiornare il BIOS con linux
+slug: aggiornare-il-bios-con-linux
 tags:
 - Computers
 - Linux

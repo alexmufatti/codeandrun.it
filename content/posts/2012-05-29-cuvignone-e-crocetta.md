@@ -1,5 +1,6 @@
 ---
 title: Cuvignone e Crocetta
+slug: cuvignone-e-crocetta
 tags:
 - Bike
 - Garmin

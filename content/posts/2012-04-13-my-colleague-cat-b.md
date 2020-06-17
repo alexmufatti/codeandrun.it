@@ -1,5 +1,6 @@
 ---
 title: 'My colleague! #cat #b'
+slug: my-colleague-cat-b
 tags:
 - Instagram
 id: 464

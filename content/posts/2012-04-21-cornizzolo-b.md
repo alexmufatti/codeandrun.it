@@ -1,5 +1,6 @@
 ---
 title: 'Cornizzolo #b'
+slug: cornizzolo-b
 tags:
 - Instagram
 id: 548

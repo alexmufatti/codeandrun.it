@@ -1,5 +1,6 @@
 ---
 title: Debootstrap
+slug: debootstrap
 tags:
 - appunti
 - debian

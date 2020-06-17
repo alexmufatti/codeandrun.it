@@ -1,5 +1,6 @@
 ---
 title: VMware and NTFS storage for vmdk
+slug: vmware-and-ntfs-storage-for-k.md
 tags:
 - Linux
 - ntfs

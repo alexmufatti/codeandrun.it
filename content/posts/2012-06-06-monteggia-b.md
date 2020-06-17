@@ -1,5 +1,6 @@
 ---
 title: 'Monteggia #b'
+slug: monteggia-b
 tags:
 - Instagram
 id: 717

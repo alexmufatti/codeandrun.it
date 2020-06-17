@@ -1,5 +1,6 @@
 ---
 title: Jeffery Deaver - Profondo blu
+slug: profondo-blu
 tags:
 - Books
 id: 13

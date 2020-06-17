@@ -1,5 +1,6 @@
 ---
 title: Calling JS class methods from Silverlight application
+slug: calling-js-class-methods-silverlight
 tags:
 - 'c#'
 - Computers

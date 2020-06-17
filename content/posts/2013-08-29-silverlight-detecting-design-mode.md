@@ -1,5 +1,6 @@
 ---
 title: 'Silverlight: detecting design mode'
+slug: silverlight-detecting-design-mode
 tags:
 - 'c#'
 - Silverlight

@@ -1,5 +1,6 @@
 ---
 title: Back from the Bucks
+slug: back-from-the-bucks
 tags:
 - Vita
 id: 45

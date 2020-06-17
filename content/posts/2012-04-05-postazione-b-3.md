@@ -1,5 +1,6 @@
 ---
 title: 'Postazione #b'
+slug: postazione-b-3
 tags:
 - Instagram
 id: 454

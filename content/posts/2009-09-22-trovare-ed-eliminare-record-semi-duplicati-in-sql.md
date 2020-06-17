@@ -1,5 +1,6 @@
 ---
 title: Trovare ed eliminare record (semi-)duplicati in SQL
+slug: trovare-ed-eliminare-record-semi-duplicati-in-sql
 tags:
 - Programming
 - sql

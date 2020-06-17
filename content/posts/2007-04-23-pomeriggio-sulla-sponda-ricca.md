@@ -1,5 +1,6 @@
 ---
 title: Pomeriggio sulla sponda ricca
+slug: pomeriggio-sulla-sponda-ricca
 tags:
 - Vita
 id: 36

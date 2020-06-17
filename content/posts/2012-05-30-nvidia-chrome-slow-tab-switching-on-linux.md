@@ -1,5 +1,6 @@
 ---
 title: 'Nvidia: chrome slow tab switching on linux'
+slug: nvidia-chrome-slow-tab-switching-on-linux
 tags:
 - Linux
 - nvidia

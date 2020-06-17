@@ -1,5 +1,6 @@
 ---
 title: WCF ServiceHost e Cross Domain Policy
+slug: wcf-servicehost-e-cross-domain-policy
 tags:
 - Computers
 - Programming

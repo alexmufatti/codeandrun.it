@@ -1,5 +1,6 @@
 ---
 title: Storage USB e mount point
+slug: storage-usb-e-mount-point
 tags:
 - Computers
 - Linux

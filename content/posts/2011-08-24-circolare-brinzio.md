@@ -1,5 +1,6 @@
 ---
 title: Circolare Brinzio
+slug: circolare-brinzio
 tags:
 - Bike
 - Garmin

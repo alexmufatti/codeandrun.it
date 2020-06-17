@@ -1,5 +1,6 @@
 ---
 title: Vararo - Monteggia
+slug: vararo-monteggia-2
 tags:
 - Bike
 - Garmin

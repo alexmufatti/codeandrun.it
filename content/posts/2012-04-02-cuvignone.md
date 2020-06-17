@@ -1,5 +1,6 @@
 ---
 title: Cuvignone
+slug: cuvignone
 tags:
 - Bike
 - Instagram

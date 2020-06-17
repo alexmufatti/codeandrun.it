@@ -1,5 +1,6 @@
 ---
 title: San Clemente
+slug: san-clemente
 tags:
 - Bike
 - Garmin

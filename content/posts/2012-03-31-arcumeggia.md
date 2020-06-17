@@ -1,5 +1,6 @@
 ---
 title: Arcumeggia
+slug: arcumeggia
 tags:
 - Bike
 - Instagram

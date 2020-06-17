@@ -1,5 +1,6 @@
 ---
 title: Il trenino delle Centovalli
+slug: il-trenino-delle-centovalli
 tags:
 - Vita
 id: 44

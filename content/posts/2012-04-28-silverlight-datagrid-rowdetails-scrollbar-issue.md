@@ -1,5 +1,6 @@
 ---
 title: Silverlight datagrid RowDetails Scrollbar Issue
+slug: silverlight-datagrid-rowdetails-scrollbar-issue
 tags:
 - 'c#'
 - csharp

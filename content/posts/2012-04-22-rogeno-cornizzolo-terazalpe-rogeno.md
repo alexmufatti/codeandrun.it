@@ -1,5 +1,6 @@
 ---
 title: Rogeno - Cornizzolo - Terz'alpe - Rogeno
+slug: rogeno-cornizzolo-terazalpe-rogeno
 tags:
 - Bike
 - Garmin

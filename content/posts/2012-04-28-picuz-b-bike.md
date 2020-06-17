@@ -1,5 +1,6 @@
 ---
 title: 'Picuz #b #bike'
+slug: picuz-b-bike
 tags:
 - Instagram
 id: 631

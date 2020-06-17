@@ -30,15 +30,15 @@ paginate = 5
 
 [menu]
     main = [
-        { identifier = "1home", name = "Home", url = "/", weight=10 },
-        { identifier = "3about", name = "About", url = "/about", weight=20  },
-        { identifier = "2conacts", name = "Contacts", url = "/contacts", weight=30  },
+        { identifier = "home", name = "Home", url = "/", weight=10 },
+        { identifier = "about", name = "About", url = "/about", weight=20  },
+        { identifier = "conacts", name = "Contacts", url = "/contacts", weight=30  },
         { identifier = "tags", name = "Tags", url = "/tags", weight=40  }
 
     ]
 
 [permalinks]
-  posts = "/:year/:month/:day/:filename/"
+  posts = "/:year/:month/:day/:slug/"
 
 
 [params.twitter]

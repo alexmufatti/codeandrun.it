@@ -1,5 +1,6 @@
 ---
 title: 'San Martino in culmine #b'
+slug: san-michele-in-culmine-b
 tags:
 - Bike
 - Instagram

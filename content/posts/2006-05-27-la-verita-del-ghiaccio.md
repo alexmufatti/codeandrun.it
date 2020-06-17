@@ -1,5 +1,6 @@
 ---
 title: Dan Brown - La verità del ghiaccio
+slug: la-verita-del-ghiaccio
 tags:
 - Books
 id: 16

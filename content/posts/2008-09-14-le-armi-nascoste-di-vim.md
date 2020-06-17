@@ -1,5 +1,6 @@
 ---
 title: Le armi nascoste di Vim
+slug: le-armi-nascoste-di-vim
 tags:
 - Computers
 - Linux

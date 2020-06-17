@@ -1,5 +1,6 @@
 ---
 title: Il codice Da Vinci
+slug: il-codice-da-vinci
 tags:
 - Books
 - films

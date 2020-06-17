@@ -1,5 +1,6 @@
 ---
 title: 'Traversata Angera-Arona #b'
+slug: traversata-angera-arona-b
 tags:
 - Instagram
 id: 735

@@ -1,5 +1,6 @@
 ---
 title: vmware crash on startup after curl update
+slug: vmware-crash-on-startup-after-curl-update
 tags:
 - curl
 - debian

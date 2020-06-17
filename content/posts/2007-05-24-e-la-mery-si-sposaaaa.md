@@ -1,5 +1,6 @@
 ---
 title: E la Mery si sposaaaa....
+slug: e-la-mery-si-sposaaaa
 tags:
 - Vita
 id: 41

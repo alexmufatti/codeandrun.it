@@ -1,5 +1,6 @@
 ---
 title: Arcobaleno
+slug: arcobaleno
 tags:
 - Vita
 id: 43

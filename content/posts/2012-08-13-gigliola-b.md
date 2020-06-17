@@ -1,5 +1,6 @@
 ---
 title: 'Gigliola #b'
+slug: gigliola-b
 tags:
 - Instagram
 id: 721

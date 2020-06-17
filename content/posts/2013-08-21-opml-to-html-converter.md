@@ -1,5 +1,6 @@
 ---
 title: Opml to Html converter
+slug: opml-to-html-converter
 tags:
 - convert
 - html

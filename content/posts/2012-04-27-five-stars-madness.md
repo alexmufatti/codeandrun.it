@@ -1,5 +1,6 @@
 ---
 title: Five stars madness
+slug: five-stars-madness
 tags:
 - App Store
 - Apple

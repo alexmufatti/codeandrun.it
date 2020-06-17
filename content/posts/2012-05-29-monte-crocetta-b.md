@@ -1,5 +1,6 @@
 ---
 title: 'Monte crocetta #b'
+slug: monte-crocetta-b
 tags:
 - Instagram
 id: 692

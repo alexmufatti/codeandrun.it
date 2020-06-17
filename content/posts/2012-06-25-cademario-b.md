@@ -1,5 +1,6 @@
 ---
 title: 'Cademario #b'
+slug: cademario-b
 tags:
 - Instagram
 id: 719

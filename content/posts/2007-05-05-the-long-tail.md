@@ -1,5 +1,6 @@
 ---
 title: The long tail
+slug: the-long-tail
 tags:
 - Books
 - Vita

@@ -1,5 +1,6 @@
 ---
 title: IP Address in bash script
+slug: ip-address-in-bash-script
 tags:
 - awk
 - bash

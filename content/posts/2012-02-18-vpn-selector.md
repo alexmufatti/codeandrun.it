@@ -1,5 +1,6 @@
 ---
 title: VPN selector
+slug: vpn-selector
 tags:
 - Python
 - script
