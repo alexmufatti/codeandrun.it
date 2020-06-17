@@ -15,10 +15,9 @@ paginate = 5
     github = "alexmufatti"         #Github username
     strava = "12353579"         #Gitlab username
     linkedin = "amufatti"       #LinkedIn username
-    facebook = ""       #Facebook username
     twitter = "alexmufatti"        #Twitter username
     instagram = "alexmufatti"      #Instagram username
-    stackoverflow = "alex-mufatti"  #StackOverflow username
+    stackoverflow = "606622"  #StackOverflow username
 
 
 [params]

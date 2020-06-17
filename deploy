@@ -3,6 +3,7 @@ USER=mua
 HOST=mua02.alexmufatti.it
 DIR=/var/www/alexmufatti.it/   # the directory where your web site files should go
 
-hugo && rsync -avz --delete public/ ${USER}@${HOST}:${DIR}
+
+/bin/rm -rf public/* && hugo && rsync -avz --delete public/ ${USER}@${HOST}:${DIR}
 
 exit 0
