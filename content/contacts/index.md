@@ -1,7 +1,7 @@
 ---
 title: "Contacts"
 date: 2020-06-12T11:50:30+02:00
-disable_comments: true
+disableComments: true
 ---
 
 **Alex Mufatti**
