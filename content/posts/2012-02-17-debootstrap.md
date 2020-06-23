@@ -13,7 +13,7 @@ categories:
 date: 2012-02-17 00:20:53
 ---
 
-![](http://www.techspot.com/images2/downloads/topdownload/2015/01/debian.png)
+{{< figure src="http://www.techspot.com/images2/downloads/topdownload/2015/01/debian.png" link="http://www.techspot.com/images2/downloads/topdownload/2015/01/debian.png" title="" >}}
 
 Questo post é un piccolo howto su come installare Debian (o distro derivate come ubuntu) con debootstrap.
 

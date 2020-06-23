@@ -23,11 +23,11 @@ La salita per l'alpe non è troppo impegnativa: senza strappi ma tutta all'om
 
 Dopo aver scollinato si arriva alla frazione di San Michele dove si trova il ristoro e la chiesetta la cui vista sul lago é però coperta dalla troppa vegetazione, peccato.
 
-[![Chiesetta di San Michele](/images/2012/04/img_02311.jpg "Chiesetta di San Michele")](/images/2012/04/img_02311.jpg) Chiesetta di San Michele!
+{{< figure src="/images/2012/04/img_02311.jpg" link="/images/2012/04/img_02311.jpg" title="Chiesetta di San Michele" >}} Chiesetta di San Michele!
 
 Consultando la cartina che si trova poco sotto la chiesa scopro dove inizia il sentiero per Brissago/Muceno; basta proseguire pochi metri sulla strada asfaltata, ignorando i cartelli per il sentiero _pedonale_ e lo si trova sulla sinistra ben indicato. La prima parte del sentiero é in leggera salita ma il fondo è compatto e salgo con facilità. Passo vicino all'eliporto e poi, sempre in salita, arrivo alla _balconata,_ attrezzata con area pic-nic e griglia da dove di gode di una bella vista sul lago.
 
-[![Balconata San Michele](/images/2012/04/IMG_0235-1024x205.jpg)](/images/2012/04/IMG_0235.jpg) Balconata San Michele!
+{{< figure src="/images/2012/04/IMG_0235.jpg" link="/images/2012/04/IMG_0235.jpg" >}} Balconata San Michele!
 
 Da qui, tutta discesa fino a Muceno, facendo attenzione a tenere la sinistra al bivio con il sentiero per Brissago. La strada é ciottolata e percorribile senza problemi anche in salita. Il fondo é bagnato e viscido a causa delle piogge e della neve  ma poco sconnesso.
 

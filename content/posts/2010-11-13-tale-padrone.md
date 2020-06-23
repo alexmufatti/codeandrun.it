@@ -9,4 +9,4 @@ categories:
 date: 2010-11-13 19:51:07
 ---
 
-[![](/images/2010/11/20101113-0745131.jpg "ronf")](/images/2010/11/20101113-0745131.jpg)! 
+{{< figure src="/images/2010/11/20101113-0745131.jpg" link="/images/2010/11/20101113-0745131.jpg" title="ronf" >}}! 

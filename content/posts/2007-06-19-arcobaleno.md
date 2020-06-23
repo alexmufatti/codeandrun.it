@@ -16,7 +16,7 @@ Abbiamo raggiunto Cannero e quindi Cannobio dove ci siamo fermati per una tappa,
 Proseguendo abbiamo sconfinato in svizzera e siamo giunti fino a Brissago, Ascona e, infine, Locarno dove é iniziato il viaggio di ritorno verso casa sulla sponda lombarda.
 
 
-[![](/images/2012/04/03062007013.jpg "03062007(013)")](/images/2012/04/03062007013.jpg)
+{{< figure src="/images/2012/04/03062007013.jpg" link="/images/2012/04/03062007013.jpg" title="03062007(013)" >}}
 
 Arrivati a Luino abbiamo trovato uno stupendo [arcobaleno](http://www3.varesenews.it/varese/articolo.php?id=74141 "Arcobaleno") a salutare il nostro ritorno :-).
 

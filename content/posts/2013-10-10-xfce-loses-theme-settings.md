@@ -14,7 +14,7 @@ categories:
 date: 2013-10-10 20:01:59
 ---
 
-![xfce-logo](/images/2014/10/xfce-logo.jpg)Today I started my xfce desktop and it looks like ..."different". No theme loaded, default icons, no background. I tried to change theme from Xfce Settings but nothing, it doesn't work.
+{{< figure src="/images/2014/10/xfce-logo.jpg" link="/images/2014/10/xfce-logo.jpg" title="xfce-logo" >}}Today I started my xfce desktop and it looks like ..."different". No theme loaded, default icons, no background. I tried to change theme from Xfce Settings but nothing, it doesn't work.
 
 My .session-errors reveals a
 <pre>The program 'xfsettingsd' received an X Window System error.</pre>
