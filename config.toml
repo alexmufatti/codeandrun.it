@@ -9,6 +9,7 @@ pygmentsCodeFences = true
 copyright = "Copyright &copy; 2020 - Alex Mufatti"
 summaryLength = 30
 paginate = 5
+enableRobotsTXT = true
 
 [author]
     name = "Alex Mufatti"           #Author name
