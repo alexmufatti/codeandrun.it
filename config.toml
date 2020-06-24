@@ -24,7 +24,7 @@ enableRobotsTXT = true
 [params]
     description = "Hands on Software"
     tagline = "Hands on Software"
-    favicon = "favicon.ico"
+    favicon = "/favicon.ico"
     owner = "Alex Mufatti"
     commentAutoload = true
 

@@ -1,0 +1,20 @@
+---
+title: 18km progressivo
+tags:
+- running
+- sport
+date: 2020-01-31 12:28:27
+---
+Sereno, 11°C, Percepito 11°C, Umidità 54%, Vento 1m/s da S - Klimat.app
+
+| | |
+| :-: | :-: |
+| Pace: 4:43min/km | Elevation: 141mt |
+| Distance: 19.28km | Duration: 1:31:06 |
+
+
+
+{{< figure src="20200131-activity-map.png" link="20200131-activity-map.png" title="Activity map" >}}
+
+
+{{< strava id=3059174698 embedId=682bba6f187b676e20b4ebd50993fa5e4a584ac9 >}}

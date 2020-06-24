@@ -1,0 +1,17 @@
+---
+title: Giro monte di Caslano
+tags: 
+- running
+date: 2019-06-02 08:17:26
+---
+
+
+| | |
+| :-: | :-: |
+| Pace: 4:37min/km | Elevation: 73mt |
+| Distance: 17.57km | Duration: 1:21:05 |
+
+{{< figure src="20190602-activity-image.jpg" >}}
+
+
+{{< figure src="20190602-activity-map.png" link="20190602-activity-map.png" title="Activity map" >}}
