@@ -22,7 +22,7 @@ enableRobotsTXT = true
 
 
 [params]
-    description = "Hands on Software"
+    description = "Personal blog talking about code and running"
     tagline = "Hands on Software"
     favicon = "/favicon.ico"
     owner = "Alex Mufatti"
