@@ -19,6 +19,8 @@ enableRobotsTXT = true
     twitter = "alexmufatti"        #Twitter username
     instagram = "alexmufatti"      #Instagram username
     stackoverflow = "606622"  #StackOverflow username
+    mastodon = "mastodon.technology/@alexmufatti"  #StackOverflow username
+    keybase = "alexmufatti"
 
 
 [params]
