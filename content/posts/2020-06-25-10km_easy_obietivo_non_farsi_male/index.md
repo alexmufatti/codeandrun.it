@@ -5,6 +5,7 @@ tags:
 - running
 date: 2020-06-25 18:13:50
 images: ["20200625-activity-map.png"]
+draft: true
 ---
 
 Nubi Sparse, 27°C, Percepito 28°C, Umidità 63%, Vento 1m/s da SE - Klimat.app

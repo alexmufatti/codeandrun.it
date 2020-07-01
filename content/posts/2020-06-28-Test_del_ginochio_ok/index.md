@@ -5,6 +5,7 @@ tags:
 - running
 date: 2020-06-28 08:49:58
 images: ["20200628-activity-map.png"]
+draft: true
 ---
 
 Poco Nuvoloso, 22°C, Percepito 22°C, Umidità 70%, Vento 1m/s da NE - Klimat.app
