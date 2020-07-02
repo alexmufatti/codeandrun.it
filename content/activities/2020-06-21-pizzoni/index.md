@@ -26,7 +26,7 @@ La salita è abbastanza impegnativa ma anche la piccola F. riesce ad arrivare in
 
 Durante l'ascesa ci fermiamo a scattare qualche foto e incontriamo parecchia gente. 
 
-Non so se la _colpa_ sia del lock-down o del timore di stare in posti affolati ma, nonostante sia salito in qualsiasi stagione ed orario, non ho mai visto così tanta gente sul sentiero!
+Non so se la _colpa_ sia del lock-down o del timore di stare in posti affollati ma, nonostante sia salito in qualsiasi stagione ed orario, non ho mai visto così tanta gente sul sentiero!
 
 {{< figure src="IMG_2185.jpg" link="IMG_2185.jpg" >}}
 {{< figure src="IMG_2193.jpg" link="IMG_2193.jpg" >}}
@@ -45,7 +45,7 @@ Il pranzo al sacco con questa vista è ancora più gustoso!
 {{< figure src="IMG_2210.jpg" link="IMG_2210.jpg" >}}
 {{< figure src="IMG_2215.jpg" link="IMG_2215.jpg" >}}
 
-Dopo esserci rifocillati e riposati un po' iniziamo la discesa dall'altro versante che presenta un po' più di pendenza ma un fondo più compatto.
+Dopo esserci rifocillati e riposati un po' iniziamo la discesa dall'altro versante che presenta un po' più di pendenza ma un fondo maggiormente compatto.
 
 Come sempre la parte più noiosa del giro è recuperare la macchina percorrendo la strada asfaltata del passo del Cuvignone per i 2/3 km che mancano alla vetta. Questa volta però, non avendo gli scarponi visto che non era previsto questo percorso, ho preso la palla al balzo per fare una breve corsetta in salita fino al passo :).
 
