@@ -5,6 +5,10 @@ tags:
 - running
 date: 2020-07-01 12:16:42
 images: ["20200701-activity-map.png"]
+places:
+- bioggio
+- cuccarello
+- vedeggio
 draft: true
 ---
 
