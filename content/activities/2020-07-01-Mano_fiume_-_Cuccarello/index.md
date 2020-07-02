@@ -9,6 +9,11 @@ places:
 - bioggio
 - cuccarello
 - vedeggio
+activitydata:
+    pace: "5:26min/km"
+    elevation: "112mt"
+    distance: "8.01km"
+    duration: "43:36"
 draft: true
 ---
 
