@@ -14,19 +14,16 @@ activitydata:
     elevation: "112mt"
     distance: "8.01km"
     duration: "43:36"
-draft: true
 ---
 
 Nubi Sparse, 25°C, Percepito 25°C, Umidità 83%, Vento 2m/s da S - Klimat.app
 
-| | |
-| :-: | :-: |
-| Pace: 5:26min/km | Elevation: 112mt |
-| Distance: 8.01km | Duration: 43:36 |
+Uscita in compagnia dopo tanto tempo e sun po' di salita anche questo dopo molto tempo.
+È sempre bello faticare mentre si scambiano due parole. Detto questo la forma è sempre pessima, speriamo migliori presto.
 
 
 
-{{< figure src="20200701-activity-map.png" link="20200701-activity-map.png" title="map" >}}
+{{< figure src="20200701-activity-map.png" link="20200701-activity-map.png" title="Activity Map" >}}
 
 
 {{< strava id=3697364696 embedId=9463613da1a2c979bcc6aacdfd4cb48e11dafbb1 >}}

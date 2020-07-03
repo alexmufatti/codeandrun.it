@@ -9,6 +9,9 @@ activitydata:
     elevation: "349mt"
     distance: "5.07km"
     duration: "1:47:03"
+places:
+- cittiglio
+- laveno
 images: ["IMG_2210.jpg", "20200621-activity-map.png",
  "IMG_2185.jpg", "IMG_2193.jpg", "IMG_2194.jpg", "IMG_2196.jpg", 
   "IMG_2197.jpg", "IMG_2204.jpg", "IMG_2208.jpg", "IMG_2209.jpg",
