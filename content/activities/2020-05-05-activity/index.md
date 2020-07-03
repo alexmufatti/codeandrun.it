@@ -7,7 +7,7 @@ date: 2020-05-05 12:26:42
 images: ["20200505-activity-map.png"]
 ---
 
-Nubi Sparse, 19°C, Percepito 19°C, Umidità 54%, Vento 1m/s da SSO - Klimat.app
+Nubi Sparse, 19°C, Percepito 19°C, Umidità 54%, Vento 1m/s da SSO
 
 | | |
 | :-: | :-: |

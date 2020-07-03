@@ -7,7 +7,7 @@ date: 2020-03-01 09:51:22
 images: ["20200301-activity-image.jpg"]
 ---
 
-Possibilità Di Pioggia Molto Leggera, 5°C, Percepito 5°C, Umidità 100%, Vento 0m/s da NNE - Klimat.app
+Possibilità Di Pioggia Molto Leggera, 5°C, Percepito 5°C, Umidità 100%, Vento 0m/s da NNE
 
 | | |
 | :-: | :-: |

@@ -7,7 +7,7 @@ date: 2020-03-04 12:12:38
 images: ["20200304-activity-image.jpg"]
 ---
 
-Sereno, 12°C, Percepito 12°C, Umidità 28%, Vento 3m/s da ESE - Klimat.app
+Sereno, 12°C, Percepito 12°C, Umidità 28%, Vento 3m/s da ESE
 
 | | |
 | :-: | :-: |

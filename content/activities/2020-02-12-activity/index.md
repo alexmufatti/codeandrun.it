@@ -5,7 +5,7 @@ tags:
 - sport
 date: 2020-02-12 12:36:14
 ---
-Sereno, 12°C, Percepito 12°C, Umidità 22%, Vento 2m/s da NO - Klimat.app
+Sereno, 12°C, Percepito 12°C, Umidità 22%, Vento 2m/s da NO
 
 | | |
 | :-: | :-: |

@@ -7,7 +7,7 @@ date: 2020-03-15 09:34:06
 images: ["IMG_1816.jpg"]
 ---
 
-Nuvoloso, 7°C, Percepito 7°C, Umidità 92%, Vento 1m/s da SSO - Klimat.app
+Nuvoloso, 7°C, Percepito 7°C, Umidità 92%, Vento 1m/s da SSO
 
 | | |
 | :-: | :-: |

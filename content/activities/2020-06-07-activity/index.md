@@ -7,7 +7,7 @@ date: 2020-06-07 17:44:08
 images: ["IMG_2135.jpg"]
 ---
 
-Pioggia, 16°C, Percepito 16°C, Umidità 80%, Vento 2m/s da NNE - Klimat.app
+Pioggia, 16°C, Percepito 16°C, Umidità 80%, Vento 2m/s da NNE
 
 | | |
 | :-: | :-: |

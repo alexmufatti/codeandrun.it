@@ -7,7 +7,7 @@ date: 2020-03-08 10:17:02
 images: ["IMG_1794.jpg"]
 ---
 
-Sereno, 9°C, Percepito 9°C, Umidità 44%, Vento 1m/s da ENE - Klimat.app
+Sereno, 9°C, Percepito 9°C, Umidità 44%, Vento 1m/s da ENE
 
 | | |
 | :-: | :-: |

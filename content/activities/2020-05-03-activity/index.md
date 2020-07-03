@@ -7,7 +7,7 @@ date: 2020-05-03 10:10:11
 images: ["IMG_1963.jpg"]
 ---
 
-Sereno, 18°C, Percepito 18°C, Umidità 28%, Vento 3m/s da NNE - Klimat.app
+Sereno, 18°C, Percepito 18°C, Umidità 28%, Vento 3m/s da NNE
 
 | | |
 | :-: | :-: |

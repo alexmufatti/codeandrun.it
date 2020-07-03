@@ -7,7 +7,7 @@ date: 2020-05-12 18:19:34
 images: ["20200512-activity-map.png"]
 ---
 
-Poco Nuvoloso, 20°C, Percepito 20°C, Umidità 58%, Vento 2m/s da SSO - Klimat.app
+Poco Nuvoloso, 20°C, Percepito 20°C, Umidità 58%, Vento 2m/s da SSO
 
 | | |
 | :-: | :-: |

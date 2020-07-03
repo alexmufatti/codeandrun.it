@@ -7,7 +7,7 @@ date: 2020-04-05 10:13:58
 images: ["20200405-activity-image.jpg"]
 ---
 
-Nubi Sparse, 10°C, Percepito 10°C, Umidità 60%, Vento 1m/s da S - Klimat.app
+Nubi Sparse, 10°C, Percepito 10°C, Umidità 60%, Vento 1m/s da S
 
 L'idea era quella di fare il solito giro di una quindicina di chilometri ma già alla prima salita si capiva che non era giornata. Abortita l'idea sono tornato con le pive nel sacco :(.
 Il fatto di non uscire poco si fa sentire.

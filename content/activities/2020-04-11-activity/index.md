@@ -7,7 +7,7 @@ date: 2020-04-11 17:13:19
 images: ["IMG_1892.jpg"]
 ---
 
-Sereno, 24°C, Percepito 24°C, Umidità 24%, Vento 3m/s da SSO - Klimat.app
+Sereno, 24°C, Percepito 24°C, Umidità 24%, Vento 3m/s da SSO
 
 | | |
 | :-: | :-: |

@@ -16,7 +16,7 @@ activitydata:
     duration: "43:36"
 ---
 
-Nubi Sparse, 25°C, Percepito 25°C, Umidità 83%, Vento 2m/s da S - Klimat.app
+Nubi Sparse, 25°C, Percepito 25°C, Umidità 83%, Vento 2m/s da S
 
 Uscita in compagnia dopo tanto tempo e sun po' di salita anche questo dopo molto tempo.
 È sempre bello faticare mentre si scambiano due parole. Detto questo la forma è sempre pessima, speriamo migliori presto.

@@ -9,7 +9,7 @@ images: ["IMG_1841.jpg"]
 
 Solito giro collinare fatto con un po' più di brio rispetto alle ultime uscite. Pochi in giro ma tutti anziani :-( .
 
-Nuvoloso, 11°C, Percepito 11°C, Umidità 74%, Vento 2m/s da S - Klimat.app
+Nuvoloso, 11°C, Percepito 11°C, Umidità 74%, Vento 2m/s da S
 
 | | |
 | :-: | :-: |

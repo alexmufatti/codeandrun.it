@@ -6,7 +6,7 @@ tags:
 date: 2020-02-28 12:26:01
 ---
 
-Sereno, 11°C, Percepito 11°C, Umidità 17%, Vento 1m/s da NNE - Klimat.app
+Sereno, 11°C, Percepito 11°C, Umidità 17%, Vento 1m/s da NNE
 
 | | |
 | :-: | :-: |

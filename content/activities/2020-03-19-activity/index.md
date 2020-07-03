@@ -7,7 +7,7 @@ date: 2020-03-19 12:19:45
 images: ["20200319-activity-image.jpg"]
 ---
 
-Sereno, 17°C, Percepito 17°C, Umidità 44%, Vento 2m/s da SSO - Klimat.app
+Sereno, 17°C, Percepito 17°C, Umidità 44%, Vento 2m/s da SSO
 
 | | |
 | :-: | :-: |

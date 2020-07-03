@@ -6,7 +6,7 @@ tags:
 date: 2020-02-23 10:05:00
 ---
 
-Sereno, 10°C, Percepito 10°C, Umidità 65%, Vento 1m/s da NO - Klimat.app
+Sereno, 10°C, Percepito 10°C, Umidità 65%, Vento 1m/s da NO
 
 | | |
 | :-: | :-: |

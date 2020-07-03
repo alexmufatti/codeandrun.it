@@ -5,7 +5,7 @@ tags:
 - sport
 date: 2020-02-19 12:24:05
 ---
-Sereno, 11°C, Percepito 11°C, Umidità 33%, Vento 2m/s da SO - Klimat.app
+Sereno, 11°C, Percepito 11°C, Umidità 33%, Vento 2m/s da SO
 
 | | |
 | :-: | :-: |

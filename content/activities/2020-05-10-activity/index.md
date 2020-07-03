@@ -7,7 +7,7 @@ date: 2020-05-10 10:27:37
 images: ["IMG_1994.jpg"]
 ---
 
-Nuvoloso, 16°C, Percepito 16°C, Umidità 79%, Vento 1m/s da ENE - Klimat.app
+Nuvoloso, 16°C, Percepito 16°C, Umidità 79%, Vento 1m/s da ENE
 
 | | |
 | :-: | :-: |

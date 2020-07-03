@@ -7,7 +7,7 @@ date: 2020-03-11 12:38:13
 images: ["20200311-activity-image.jpg"]
 ---
 
-Sereno, 17°C, Percepito 17°C, Umidità 47%, Vento 1m/s da S - Klimat.app
+Sereno, 17°C, Percepito 17°C, Umidità 47%, Vento 1m/s da S
 
 | | |
 | :-: | :-: |

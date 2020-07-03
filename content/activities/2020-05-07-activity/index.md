@@ -7,7 +7,7 @@ date: 2020-05-07 18:23:37
 images: ["20200507-activity-map.png"]
 ---
 
-Sereno, 22°C, Percepito 22°C, Umidità 45%, Vento 3m/s da SSO - Klimat.app
+Sereno, 22°C, Percepito 22°C, Umidità 45%, Vento 3m/s da SSO
 
 | | |
 | :-: | :-: |

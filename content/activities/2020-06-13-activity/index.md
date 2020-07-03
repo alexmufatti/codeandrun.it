@@ -7,7 +7,7 @@ date: 2020-06-13 10:16:53
 images: ["IMG_4587.jpg"]
 ---
 
-Sereno, 19°C, Percepito 19°C, Umidità 59%, Vento 2m/s da ONO - Klimat.app
+Sereno, 19°C, Percepito 19°C, Umidità 59%, Vento 2m/s da ONO
 
 | | |
 | :-: | :-: |

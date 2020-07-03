@@ -7,7 +7,7 @@ date: 2020-03-29 10:26:23
 images: ["20200329-activity-map.png"]
 ---
 
-Poco Nuvoloso, 11°C, Percepito 11°C, Umidità 64%, Vento 1m/s da NNE - Klimat.app
+Poco Nuvoloso, 11°C, Percepito 11°C, Umidità 64%, Vento 1m/s da NNE
 
 | | |
 | :-: | :-: |

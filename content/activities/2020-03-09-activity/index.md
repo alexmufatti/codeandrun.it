@@ -6,7 +6,7 @@ tags:
 date: 2020-03-09 12:21:59
 ---
 
-Nuvoloso, 9°C, Percepito 9°C, Umidità 57%, Vento 1m/s da S - Klimat.app
+Nuvoloso, 9°C, Percepito 9°C, Umidità 57%, Vento 1m/s da S
 
 | | |
 | :-: | :-: |

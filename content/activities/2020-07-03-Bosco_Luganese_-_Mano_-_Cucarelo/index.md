@@ -15,7 +15,7 @@ places:
 - manno
 - cuccarello
 ---
-Poco Nuvoloso, 26°C, Percepito 26°C, Umidità 57%, Vento 2m/s da S - Klimat.app
+Poco Nuvoloso, 26°C, Percepito 26°C, Umidità 57%, Vento 2m/s da S
 
 Altra uscita in compagnia e altra salita, stavolta meno faticosa.
 

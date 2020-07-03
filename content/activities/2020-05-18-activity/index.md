@@ -7,7 +7,7 @@ date: 2020-05-18 12:39:08
 images: ["20200518-activity-map.png"]
 ---
 
-Sereno, 22°C, Percepito 22°C, Umidità 58%, Vento 2m/s da S - Klimat.app
+Sereno, 22°C, Percepito 22°C, Umidità 58%, Vento 2m/s da S
 
 | | |
 | :-: | :-: |

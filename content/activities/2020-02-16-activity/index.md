@@ -5,7 +5,7 @@ tags:
 - sport
 date: 2020-02-16 09:09:56
 ---
-Nuvoloso, 3°C, Percepito 3°C, Umidità 83%, Vento 1m/s da NNE - Klimat.app
+Nuvoloso, 3°C, Percepito 3°C, Umidità 83%, Vento 1m/s da NNE
 
 | | |
 | :-: | :-: |

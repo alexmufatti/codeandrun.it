@@ -5,7 +5,7 @@ tags:
 - sport
 date: 2020-01-26 10:22:12
 ---
-Poco Nuvoloso, 6°C, Percepito 6°C, Umidità 93%, Vento 1m/s da NE - Klimat.app
+Poco Nuvoloso, 6°C, Percepito 6°C, Umidità 93%, Vento 1m/s da NE
 
 | | |
 | :-: | :-: |

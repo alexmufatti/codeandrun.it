@@ -5,7 +5,7 @@ tags:
 - sport
 date: 2020-01-29 12:38:35
 ---
-Sereno, 10°C, Percepito 10°C, Umidità 52%, Vento 2m/s da NNE - Klimat.app
+Sereno, 10°C, Percepito 10°C, Umidità 52%, Vento 2m/s da NNE
 
 | | |
 | :-: | :-: |

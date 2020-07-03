@@ -7,7 +7,7 @@ date: 2020-05-16 17:28:56
 images: ["IMG_2010.jpg"]
 ---
 
-Possibilità Di Pioggia Leggera, 18°C, Percepito 18°C, Umidità 75%, Vento 1m/s da S - Klimat.app
+Possibilità Di Pioggia Leggera, 18°C, Percepito 18°C, Umidità 75%, Vento 1m/s da S
 
 | | |
 | :-: | :-: |

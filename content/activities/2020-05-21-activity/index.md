@@ -7,7 +7,7 @@ date: 2020-05-21 18:13:58
 images: ["IMG_2039.jpg"]
 ---
 
-Sereno, 26°C, Percepito 26°C, Umidità 46%, Vento 2m/s da S - Klimat.app
+Sereno, 26°C, Percepito 26°C, Umidità 46%, Vento 2m/s da S
 
 | | |
 | :-: | :-: |
