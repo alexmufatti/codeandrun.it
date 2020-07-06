@@ -6,10 +6,10 @@ tags:
 date: 2020-07-05 10:16:46
 images: ["IMG_8382.jpg","IMG_8384.jpg","IMG_8379.jpg","IMG_2270.jpg","IMG_2269.jpg","IMG_2267.jpg"]
 activitydata:
-	pace: 22:56min/km
-	elevation: 345mt
-	distance: 3.11km
-	duration: 1:11:19
+    pace: "22:56min/km"
+    elevation: "345mt"
+    distance: "3.11km"
+    duration: "1:11:19"
 places:
 - Generoso
 - Bellavista
