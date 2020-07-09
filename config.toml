@@ -31,6 +31,7 @@ rssLimit = 30
     owner = "Alex Mufatti"
     commentAutoload = true
     mainSections = ["posts", "activities"]
+    images = ["/cover.jpg"]
 
 
 [menu]
