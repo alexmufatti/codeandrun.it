@@ -13,11 +13,11 @@ activitydata:
 places:
 - Bioggio
 - Vedeggio
-draft: true
 ---
 
 Sereno, 27°C, Percepito 27°C, Umidità 46%, Vento 3m/s da SSO - Klimat.app
 
+Corsetta easy dopo tanto tempo lungo il Vedeggio. La forma è ancora da ritrovare ma un po' le gambe iniziano a girare.
 
 
 {{< figure src="20200708-activity-map.png" link="20200708-activity-map.png" title="map" >}}
