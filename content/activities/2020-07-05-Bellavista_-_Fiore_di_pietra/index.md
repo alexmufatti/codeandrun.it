@@ -18,6 +18,8 @@ places:
 
 Sereno, 19°C, Percepito 19°C, Umidità 57%, Vento 1m/s da E
 
+{{< figure src="IMG_8382.jpg" link="IMG_8382.jpg" title="panoramica" >}}
+
 Con alcuni amici decidiamo di provare un'escursione molto gettonata ma che non avevamo mai fatto prima: il sentiero che, dalla fermata Bellavista del trenino del monte Generoso, porta fino al _fiore di pietra_ e da lì in vetta.
 
 {{< figure src="IMG_8384.jpg" link="IMG_8384.jpg" title="fiore di pietra" >}}

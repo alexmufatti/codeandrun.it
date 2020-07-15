@@ -22,8 +22,8 @@ Lo scopo di questa sgambata era quindi vedere se il dolore persisteva o era dovu
 
 Fortunatamente, avendo anche spinto un po' più del solito, il ginocchio ha retto bene.
 
-{{< figure src="IMG_2231.jpg" link="IMG_2248.jpg" >}}
-{{< figure src="IMG_2232.jpg" link="IMG_2249.jpg" >}}
+{{< figure src="IMG_2248.jpg" link="IMG_2248.jpg" >}}
+{{< figure src="IMG_2249.jpg" link="IMG_2249.jpg" >}}
 
 {{< figure src="20200628-activity-map.png" link="20200628-activity-map.png" title="Activity Map" >}}
 

@@ -17,6 +17,8 @@ places:
 
 Sereno, 27°C, Percepito 27°C, Umidità 46%, Vento 3m/s da SSO - Klimat.app
 
+{{< figure src="IMG_2280.jpg" link="IMG_2280.jpg" title="Vedeggio" >}}
+
 Corsetta easy dopo tanto tempo lungo il Vedeggio. La forma è ancora da ritrovare ma un po' le gambe iniziano a girare.
 
 
