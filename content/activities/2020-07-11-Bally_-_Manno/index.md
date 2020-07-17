@@ -17,7 +17,7 @@ places:
 - Vedeggio
 ---
 
-Sereno, 28°C, Percepito 28°C, Umidità 51%, Vento 2m/s da SO - Klimat.app
+Sereno, 28°C, Percepito 28°C, Umidità 51%, Vento 2m/s da SO
 
 {{< figure src="IMG_2292.jpg" link="IMG_2292.jpg" title="Vedeggio" >}}
 

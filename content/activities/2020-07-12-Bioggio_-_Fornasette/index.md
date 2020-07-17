@@ -20,7 +20,7 @@ places:
 - Fornasette
 ---
 
-Poco Nuvoloso, 27°C, Percepito 27°C, Umidità 43%, Vento 3m/s da S - Klimat.app
+Poco Nuvoloso, 27°C, Percepito 27°C, Umidità 43%, Vento 3m/s da S
 
 Seconda uscita in bici. Meglio della prima anche se un dolore alla gamba destra, probabilmente dovuto ad una regolazione non corretta della sella, mi ha un po' infastidito. Il ritorno è sempre in sofferenza perché le gambe iniziano ad essere stanche.
 

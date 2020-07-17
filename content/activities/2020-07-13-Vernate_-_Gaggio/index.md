@@ -18,7 +18,7 @@ places:
 - Gaggio
 ---
 
-Nubi Sparse, 21°C, Percepito 21°C, Umidità 59%, Vento 3m/s da SSO - Klimat.app
+Nubi Sparse, 21°C, Percepito 21°C, Umidità 59%, Vento 3m/s da SSO
 
 Corsa in compagnia sulla salita di Vernate. Questo percorso mi piace perché la salita non è eccessivamente pendente e si ha un po' di riscaldamento prima dell'inizio della parte impegnativa.
 
