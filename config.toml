@@ -1,6 +1,6 @@
-baseURL = "https://alexmufatti.it/"
+baseURL = "https://codeandrun.it/"
 DefaultContentLanguage = "it"
-title = "Alex Mufatti"
+title = "Code And Run"
 theme = "hugo-kiera"
 disqusShortname = "alexmufatti"
 googleAnalytics = "UA-21196458-5"
@@ -26,7 +26,7 @@ rssLimit = 30
 
 [params]
     description = "Personal blog talking about code and running"
-    tagline = "Hands on Software"
+    tagline = "Blog of a running developer"
     favicon = "/favicon.ico"
     owner = "Alex Mufatti"
     commentAutoload = true
