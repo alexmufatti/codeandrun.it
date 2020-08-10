@@ -10,6 +10,7 @@ tags:
 - vmware
 - audio
 date: 2020-08-10 10:00:00
+summary: Breve tutorial su come migliorare la quolità della registrazione dal micorfono in una Virtual Machine vmware Windows 10.
 ---
 
 {{< figure src="mic.jpg" link="mic.jpg" >}}
