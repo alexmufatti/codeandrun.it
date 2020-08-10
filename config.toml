@@ -13,14 +13,14 @@ enableRobotsTXT = true
 rssLimit = 30
 
 [author]
-    name = "Alex Mufatti"           #Author name
-    github = "alexmufatti"         #Github username
-    strava = "12353579"         #Gitlab username
-    linkedin = "amufatti"       #LinkedIn username
-    twitter = "alexmufatti"        #Twitter username
-    instagram = "alexmufatti"      #Instagram username
-    stackoverflow = "606622"  #StackOverflow username
-    mastodon = "mastodon.technology/@alexmufatti"  #StackOverflow username
+    name = "Alex Mufatti"
+    github = "alexmufatti"
+    strava = "12353579"
+    linkedin = "amufatti"
+    twitter = "alexmufatti"
+    instagram = "alexmufatti"
+    stackoverflow = "606622"
+    mastodon = "mastodon.technology/@alexmufatti"
     keybase = "alexmufatti"
 
 
@@ -45,6 +45,7 @@ rssLimit = 30
 
 [permalinks]
   posts = "/:year/:month/:day/:slug/"
+  activities = "/:year/:month/:day/:slug/"
 
 
 [params.twitter]
