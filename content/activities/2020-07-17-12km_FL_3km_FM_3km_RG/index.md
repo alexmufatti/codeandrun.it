@@ -17,7 +17,6 @@ places:
 - Caslano
 - Magliaso
 - Agno
-draft: true
 ---
 
 Sereno, 28°C, Percepito 28°C, Umidità 48%, Vento 2m/s da SSO
