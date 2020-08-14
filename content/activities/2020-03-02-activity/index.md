@@ -14,7 +14,7 @@ Pioggia, 4°C, Percepito 4°C, Umidità 100%, Vento 1m/s da NNE
 
 
 
-{{< figure src="20200302-activity-map.png" link="20200302-activity-map.png" title="Activity map" >}}
+{{< figurelink src="20200302-activity-map.png" >}}
 
 
 {{< strava id=3147692997 embedId=2085bc6898241d8aeb4533ee0f47991d402abaf4 >}}

@@ -14,7 +14,7 @@ Sereno, 11°C, Percepito 11°C, Umidità 25%, Vento 7m/s da NO
 
 
 
-{{< figure src="20200226-activity-map.png" link="20200226-activity-map.png" title="Activity map" >}}
+{{< figurelink src="20200226-activity-map.png" >}}
 
 
 {{< strava id=3133441062 embedId=350458393feba99a9d0eb45ca6ceecd64f6801bf >}}

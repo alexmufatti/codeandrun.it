@@ -14,7 +14,7 @@ Nuvoloso, 8°C, Percepito 8°C, Umidità 30%, Vento 1m/s da SSE
 
 
 
-{{< figure src="20200206-activity-map.png" link="20200206-activity-map.png" title="Activity map" >}}
+{{< figurelink src="20200206-activity-map.png" >}}
 
 
 {{< strava id=3076604326 embedId=6a9b673a1407054ece669e908d9a8789ff7b8b8b >}}

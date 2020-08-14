@@ -17,7 +17,7 @@ Yesterday I discovered that wordpress does not have a blogroll feature any more 
 
 I didn't find anything interesting so decided to implement a simple javascipt class to convert the _opml_ file exported from feedly to an _html_ page so that I could easily create a wordpress page or widget.
 
-{{< figure src="ompl-html.png?w=300" link="ompl-html.png?w=300" title="ompl-html" >}}
+{{< figurelink src="ompl-html.png?w=300" >}}
 
 The script is really very simple, it takes the ompl, deserialize it and create a corresponding HTML string using from a basic template defined in the JS itself. It can be certainly improved (for example adding some css class to the template for graphical customization) but, for now, it just work for my needs.
 

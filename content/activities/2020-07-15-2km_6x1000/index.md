@@ -27,12 +27,12 @@ In realtà ho alzato leggermente il passo delle ripetute perché sicuramente non
 
 Alla fine un buon 6x1000 preceduto da riscaldamento e una ripetuta da 2km.
 
-{{< figure src="training.jpg" link="training.jpg" title="Training graph" >}}
+{{< figurelink src="training.jpg" >}}
 
 Se la prossima uscita non dovesse risentire dello sforzo di questo allenamento allora posso ancora pensare di fare una buona gara a St. Moritz :)
 
 
-{{< figure src="20200715-activity-map.png" link="20200715-activity-map.png" title="map" >}}
+{{< figurelink src="20200715-activity-map.png" >}}
 
 
 {{< strava id=3767042208 embedId=8959b780e708aab588f11e1136738328872154a8 >}}

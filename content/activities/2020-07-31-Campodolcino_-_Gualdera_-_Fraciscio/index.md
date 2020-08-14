@@ -18,20 +18,20 @@ places:
 
 Sereno, 24°C, Percepito 24°C, Umidità 65%, Vento 1m/s da N
 
-{{< figure src="IMG_8483.jpg" link="IMG_8483.jpg" title="lago di Gualdera" >}}
+{{< figurelink src="IMG_8483.jpg" >}}
 
 Passeggiata lungo il sentiero che da Campodolcino porta a Gualdera e poi discesa da Fraciscio.
 
 Bello il lago e il piccolo abitato di Gualdera.
 
-{{< figure src="IMG_2452.jpg" link="IMG_2452.jpg" >}}
+{{< figurelink src="IMG_2452.jpg" >}}
 
-{{< figure src="IMG_2455.jpg" link="IMG_2455.jpg" >}}
+{{< figurelink src="IMG_2455.jpg" >}}
 
-{{< figure src="IMG_2461.jpg" link="IMG_2461.jpg" >}}
+{{< figurelink src="IMG_2461.jpg" >}}
 
 
-{{< figure src="20200731-activity-map.png" link="20200731-activity-map.png" title="map" >}}
+{{< figurelink src="20200731-activity-map.png" >}}
 
 
 {{< strava id=3842743727 embedId=64ce181e4501966668af6cbfa3a078d4f70f02c0 >}}

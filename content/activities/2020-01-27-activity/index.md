@@ -14,7 +14,7 @@ Poco Nuvoloso, 9°C, Percepito 9°C, Umidità 77%, Vento 1m/s da SE
 
 
 
-{{< figure src="20200127-activity-map.png" link="20200127-activity-map.png" title="Activity map" >}}
+{{< figurelink src="20200127-activity-map.png" >}}
 
 
 {{< strava id=3047755804 embedId=0f99f06c815264af7fc1e9782fb7ddcae8c8f540 >}}

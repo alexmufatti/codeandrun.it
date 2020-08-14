@@ -21,9 +21,9 @@ Un bel ritorno sui percorsi che hanno contraddistinto i miei allenamenti nei pri
 Questa volta però l'obiettivo è diverso: poco allenamento e poco sonno, cerchiamo solo di non infortunarci!
 
 
-{{< figure src="IMG_2231.jpg" link="IMG_2231.jpg" >}}
-{{< figure src="IMG_2232.jpg" link="IMG_2232.jpg" >}}
-{{< figure src="20200625-activity-map.png" link="20200625-activity-map.png" title="Activity Map" >}}
+{{< figurelink src="IMG_2231.jpg" >}}
+{{< figurelink src="IMG_2232.jpg" >}}
+{{< figurelink src="20200625-activity-map.png" >}}
 
 
 {{< strava id=3669936510 embedId=d60e51df1602e387933d950c51315c241bc63f34 >}}

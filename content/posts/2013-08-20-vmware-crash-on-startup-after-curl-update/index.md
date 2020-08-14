@@ -16,7 +16,7 @@ date: 2013-08-20 16:43:03
 
 After today update of debian Sid VMWare keep crashing on startup without any interesting log.
 
-{{< figure src="https://bugs.archlinux.org/task/33779?project=1&amp;order=dateopened&amp;sort=desc" link="https://bugs.archlinux.org/task/33779?project=1&amp;order=dateopened&amp;sort=desc" title="VMWare crash" >}}. The crash it's caused by the curl update that changed the lib interface.
+{{< figurelink src="https://bugs.archlinux.org/task/33779?project=1&amp;order=dateopened&amp;sort=desc" >}}. The crash it's caused by the curl update that changed the lib interface.
 
 There are two ways of solving this: downgrade Curl (i.e. using snapshot debian) or applying a patch that force vmware to use its own libcurl instead of the system one.
 

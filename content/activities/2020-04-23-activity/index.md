@@ -13,11 +13,11 @@ Per la prima volta dopo un po' di tempo sono arrivato fino a Cademario dai Vigne
 
 Appena dopo Renera si possono fare anche degli incontri interessanti :-)
 
-{{< figure src="IMG_1935.jpg" link="IMG_1935.jpg" title="Incontro" >}}
-{{< figure src="IMG_1936.jpg" link="IMG_1936.jpg" title="Incontro" >}}
+{{< figurelink src="IMG_1935.jpg" >}}
+{{< figurelink src="IMG_1936.jpg" >}}
 
 
-{{< figure src="IMG_1940.jpg" link="IMG_1940.jpg" title="Vista" >}}
+{{< figurelink src="IMG_1940.jpg" >}}
 
 | | |
 | :-: | :-: |
@@ -26,7 +26,7 @@ Appena dopo Renera si possono fare anche degli incontri interessanti :-)
 
 
 
-{{< figure src="20200423-activity-map.png" link="20200423-activity-map.png" title="Activity map" >}}
+{{< figurelink src="20200423-activity-map.png" >}}
 
 
 {{< strava id=3343223143 embedId=74a6283f0556afd86541c2f24ea5b97dbf3efab1 >}}

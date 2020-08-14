@@ -23,7 +23,7 @@ Giro tranquillo ma l'importante è avere fatto due chiacchiere, si fa meno fatic
 
 
 
-{{< figure src="20200428-activity-map.png" link="20200428-activity-map.png" title="Activity map" >}}
+{{< figurelink src="20200428-activity-map.png" >}}
 
 
 {{< strava id=3366306789 embedId=b9cd3f1760031c1fa1d96313122d727af7d8422b >}}

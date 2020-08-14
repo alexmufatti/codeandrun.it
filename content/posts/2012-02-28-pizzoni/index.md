@@ -12,4 +12,4 @@ date: 2012-02-28 07:21:33
 
 [Garmin connect](http://connect.garmin.com/activity/153341393 "Garmin connect")
 
-{{< figure src="panorama1.jpg?w=300" link="panorama1.jpg?w=300" title="panorama" >}}
+{{< figurelink src="panorama1.jpg?w=300" >}}

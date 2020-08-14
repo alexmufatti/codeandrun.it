@@ -20,7 +20,7 @@ Alcuni tratti è sicuramente più efficiente camminarli che correrli.
 Chissà se ci saranno altri percorsi su questo versante della montagna.
 
 
-{{< figure src="20200505-activity-map.png" link="20200505-activity-map.png" title="Activity map" >}}
+{{< figurelink src="20200505-activity-map.png" >}}
 
 
 {{< strava id=3401152611 embedId=bc42fcbfbb94a3e01b2f609766842740c411c42e >}}

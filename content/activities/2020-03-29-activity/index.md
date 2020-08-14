@@ -16,7 +16,7 @@ Poco Nuvoloso, 11°C, Percepito 11°C, Umidità 64%, Vento 1m/s da NNE
 
 
 
-{{< figure src="20200329-activity-map.png" link="20200329-activity-map.png" title="Activity map" >}}
+{{< figurelink src="20200329-activity-map.png" >}}
 
 
 {{< strava id=3231604963 embedId=65e1e6a76b94f2d05a4b772fac49ba66e56f8bd3 >}}

@@ -13,7 +13,7 @@ Allenamento impegnativo, soffro sempre in modo particolare le ripetute lunghe. I
 
 
 
-{{< figure src="20190710-activity-map.png" link="20190710-activity-map.png" title="Activity map" >}}
+{{< figurelink src="20190710-activity-map.png" >}}
 
 
 {{< strava id=2520099046 embedId=109d80d9754039b6716f1052dfb3c557c41e4504 >}}

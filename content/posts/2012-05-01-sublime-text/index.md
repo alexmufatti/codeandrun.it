@@ -20,7 +20,7 @@ Let's start with a text editor/IDE.
 
 ## [Sublime Text 2](http://www.sublimetext.com/2 "Sublime Text 2")
 
-{{< figure src="https://cdn.tutsplus.com/net/uploads/legacy/1140_st2plugins/200u.jpg" link="https://cdn.tutsplus.com/net/uploads/legacy/1140_st2plugins/200u.jpg" title="Sublime text 2" >}}
+{{< figurelink src="https://cdn.tutsplus.com/net/uploads/legacy/1140_st2plugins/200u.jpg" >}}
 
 I'm always looking for a good text editor that can help me working on simple text files but also on small projects (typically javascript or python). I loved _vim_ (ok, vim is a religion, non an editor ;-) and I continue using it but when I want something of user-friendly it's not really a good choice.
 

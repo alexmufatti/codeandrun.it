@@ -13,7 +13,7 @@ Questi 9km sono stati una lotta contro le pulsazioni :), sempre al limite tra Z2
 
 
 
-{{< figure src="20190719-activity-map.png" link="20190719-activity-map.png" title="Activity map" >}}
+{{< figurelink src="20190719-activity-map.png" >}}
 
 
 {{< strava id=2545083480 embedId=94365f037a914e4a90170fd8f204a342f060a518 >}}

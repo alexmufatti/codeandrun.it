@@ -14,7 +14,7 @@ Nubi Sparse, 9°C, Percepito 9°C, Umidità 79%, Vento 1m/s da SSO
 
 
 
-{{< figure src="20200210-activity-map.png" link="20200210-activity-map.png" title="Activity map" >}}
+{{< figurelink src="20200210-activity-map.png" >}}
 
 
 {{< strava id=3088197281 embedId=5aee68f25fcf21365c172b33f7df17f0e764445f >}}

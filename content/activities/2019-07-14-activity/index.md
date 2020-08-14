@@ -14,7 +14,7 @@ Le sensazioni devo dire che non erano delle migliori, molta stanchezza, anche tr
 
 
 
-{{< figure src="20190714-activity-map.png" link="20190714-activity-map.png" title="Activity map" >}}
+{{< figurelink src="20190714-activity-map.png" >}}
 
 
 {{< strava id=2530450704 embedId=0015f0ca8a972cf4dff8d57c71cb69d513bbe671 >}}

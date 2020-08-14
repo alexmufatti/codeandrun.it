@@ -11,7 +11,7 @@ Nubi Sparse, 12°C, Percepito 12°C, Umidità 78%, Vento 1m/s da OSO
 
 Corsa con poca voglia e troppa fatica rispetto al percorso fatto. Percorso il più breve possibile per dire di essere uscito...
 
-{{< figure src="IMG_1926.jpg" link="IMG_1926.jpg" title="vigneti" >}}
+{{< figurelink src="IMG_1926.jpg" >}}
 
 | | |
 | :-: | :-: |
@@ -20,7 +20,7 @@ Corsa con poca voglia e troppa fatica rispetto al percorso fatto. Percorso il pi
 
 
 
-{{< figure src="20200421-activity-map.png" link="20200421-activity-map.png" title="Activity map" >}}
+{{< figurelink src="20200421-activity-map.png" >}}
 
 
 {{< strava id=3331999563 embedId=6a206a271c8172b2a7e3345f7421a19092a3b5ef >}}

@@ -24,7 +24,7 @@ Poco Nuvoloso, 27°C, Percepito 27°C, Umidità 43%, Vento 3m/s da S
 
 Seconda uscita in bici. Meglio della prima anche se un dolore alla gamba destra, probabilmente dovuto ad una regolazione non corretta della sella, mi ha un po' infastidito. Il ritorno è sempre in sofferenza perché le gambe iniziano ad essere stanche.
 
-{{< figure src="20200712-activity-map.png" link="20200712-activity-map.png" title="map" >}}
+{{< figurelink src="20200712-activity-map.png" >}}
 
 
 {{< strava id=3752514912 embedId=6857113944e76af256b2716490562dd389f555ca >}}

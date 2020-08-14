@@ -1,0 +1,30 @@
+{{ $resources := .Page.Resources.Match ( .Get "src" ) }}
+{{ $resource := index $resources 0}}
+
+{{ $thumbnail := $resource.Resize "700x" }}
+{{ $full := $resource.Fit "1920x1080" }}
+
+<figure{{ with .Get "class" }} class="{{ . }}"{{ end }}>
+    <a href="{{ $full.RelPermalink }}"{{ with .Get "target" }} target="{{ . }}"{{ end }}{{ with .Get "rel" }} rel="{{ . }}"{{ end }}>
+        <img src="{{ $thumbnail.RelPermalink }}"
+            {{- if or (.Get "alt") (.Get "caption") }}
+            alt="{{ with .Get "alt" }}{{ . }}{{ else }}{{ .Get "caption" | markdownify| plainify }}{{ end }}"
+            {{- end -}}
+        /> <!-- Closing img tag -->
+    </a>
+    {{- if or (or (.Get "title") (.Get "caption")) (.Get "attr") -}}
+        <figcaption>
+            {{ with (.Get "title") -}}
+                <h4>{{ . }}</h4>
+            {{- end -}}
+            {{- if or (.Get "caption") (.Get "attr") -}}<p>
+                {{- .Get "caption" | markdownify -}}
+                {{- with .Get "attrlink" }}
+                    <a href="{{ . }}">
+                {{- end -}}
+                {{- .Get "attr" | markdownify -}}
+                {{- if .Get "attrlink" }}</a>{{ end }}</p>
+            {{- end }}
+        </figcaption>
+    {{- end }}
+</figure>

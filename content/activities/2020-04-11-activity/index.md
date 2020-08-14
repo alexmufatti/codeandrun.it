@@ -20,17 +20,17 @@ Panorama come sempre molto bello, santiero pulito e _corribile_ anche se bisogne
 In generale un bel giro anche se la forama ancora scarseggia.
 
 
-{{< figure src="IMG_1886.jpg" >}}
-{{< figure src="IMG_1887.jpg" >}}
-{{< figure src="IMG_1888.jpg" >}}
-{{< figure src="IMG_1889.jpg" >}}
-{{< figure src="IMG_1890.jpg" >}}
-{{< figure src="IMG_1892.jpg" >}}
-{{< figure src="IMG_1893.jpg" >}}
-{{< figure src="IMG_1894.jpg" >}}
+{{< figurelink src="IMG_1886.jpg" >}}
+{{< figurelink src="IMG_1887.jpg" >}}
+{{< figurelink src="IMG_1888.jpg" >}}
+{{< figurelink src="IMG_1889.jpg" >}}
+{{< figurelink src="IMG_1890.jpg" >}}
+{{< figurelink src="IMG_1892.jpg" >}}
+{{< figurelink src="IMG_1893.jpg" >}}
+{{< figurelink src="IMG_1894.jpg" >}}
 
 
-{{< figure src="20200411-activity-map.png" link="20200411-activity-map.png" title="Activity map" >}}
+{{< figurelink src="20200411-activity-map.png" >}}
 
 
 {{< strava id=3285743588 embedId=636d103a880e36fda1769383f79bad0126ef59ac >}}

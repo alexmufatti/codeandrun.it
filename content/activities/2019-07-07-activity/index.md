@@ -13,7 +13,7 @@ Uscita in compagnia di Stefano. Come al solito con un compagno di corsa (odi bic
 
 
 
-{{< figure src="20190707-activity-map.png" link="20190707-activity-map.png" title="Activity map" >}}
+{{< figurelink src="20190707-activity-map.png" >}}
 
 
 {{< strava id=2510769505 embedId=7eae4e7ab17c7eb6df77b622fb2aaec6ac2ee18a >}}

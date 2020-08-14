@@ -20,7 +20,7 @@ places:
 Sereno, 29°C, Percepito 29°C, Umidità 42%, Vento 3m/s da SSO.
 
 
-{{< figure src="IMG_2516.jpg" link="IMG_2516.jpg" title="Vedeggio" >}}
+{{< figurelink src="IMG_2516.jpg" >}}
 
 
 In questo periodo salto spesso degli allenamenti, un po' per poca voglia, un po' perché non riesco a recuperare come vorrei.
@@ -29,7 +29,7 @@ Questa volta ho evitato il 3x3000 in programma ieri e mi sono concentrato sul fa
 
 Sempre faticoso prendere il ritmo, anche perché la prima parte è in leggera salita, poi però la situazione è migliorata e ho chiuso con un ultimo chilometro degno dei tempi migliori :).
 
-{{< figure src="20200806-activity-map.png" link="20200806-activity-map.png" title="map" >}}
+{{< figurelink src="20200806-activity-map.png" >}}
 
 
 {{< strava id=3874155599 embedId=d9628f26160095b881c5f7fe47c02a14417ba7ed >}}

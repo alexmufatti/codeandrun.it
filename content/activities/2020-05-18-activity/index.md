@@ -16,7 +16,7 @@ Sereno, 22°C, Percepito 22°C, Umidità 58%, Vento 2m/s da S
 
 
 
-{{< figure src="20200518-activity-map.png" link="20200518-activity-map.png" title="Activity map" >}}
+{{< figurelink src="20200518-activity-map.png" >}}
 
 
 {{< strava id=3470921435 embedId=a0414d78acc2e6671d3d738d31facf3cd5d145af >}}

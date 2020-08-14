@@ -31,28 +31,28 @@ Durante l'ascesa ci fermiamo a scattare qualche foto e incontriamo parecchia gen
 
 Non so se la _colpa_ sia del lock-down o del timore di stare in posti affollati ma, nonostante sia salito in qualsiasi stagione ed orario, non ho mai visto così tanta gente sul sentiero!
 
-{{< figure src="IMG_2185.jpg" link="IMG_2185.jpg" >}}
-{{< figure src="IMG_2193.jpg" link="IMG_2193.jpg" >}}
-{{< figure src="IMG_2194.jpg" link="IMG_2194.jpg" >}}
+{{< figurelink src="IMG_2185.jpg" >}}
+{{< figurelink src="IMG_2193.jpg" >}}
+{{< figurelink src="IMG_2194.jpg" >}}
 
 Anche questa volta lo spettacolo che si presenta sulla vetta dell'ultima cresta è incantevole.
 
-{{< figure src="IMG_2197.jpg" link="IMG_2197.jpg" title="Panoramica dall'ultima cresta" >}}
-{{< figure src="IMG_2196.jpg" link="IMG_2196.jpg" >}}
-{{< figure src="IMG_2204.jpg" link="IMG_2204.jpg" >}}
-{{< figure src="IMG_2208.jpg" link="IMG_2208.jpg" >}}
+{{< figurelink src="IMG_2197.jpg" >}}
+{{< figurelink src="IMG_2196.jpg" >}}
+{{< figurelink src="IMG_2204.jpg" >}}
+{{< figurelink src="IMG_2208.jpg" >}}
 
 Il pranzo al sacco con questa vista è ancora più gustoso!
 
-{{< figure src="IMG_2209.jpg" link="IMG_2209.jpg" >}}
-{{< figure src="IMG_2210.jpg" link="IMG_2210.jpg" >}}
-{{< figure src="IMG_2215.jpg" link="IMG_2215.jpg" >}}
+{{< figurelink src="IMG_2209.jpg" >}}
+{{< figurelink src="IMG_2210.jpg" >}}
+{{< figurelink src="IMG_2215.jpg" >}}
 
 Dopo esserci rifocillati e riposati un po' iniziamo la discesa dall'altro versante che presenta un po' più di pendenza ma un fondo maggiormente compatto.
 
 Come sempre la parte più noiosa del giro è recuperare la macchina percorrendo la strada asfaltata del passo del Cuvignone per i 2/3 km che mancano alla vetta. Questa volta però, non avendo gli scarponi visto che non era previsto questo percorso, ho preso la palla al balzo per fare una breve corsetta in salita fino al passo :).
 
-{{< figure src="20200621-activity-map.png" title="Activity map" >}}
+{{< figurelink src="20200621-activity-map.png" title="Activity map" >}}
 
 
 {{< strava id=3649205848 embedId=09bf65fb568cd5522ae6633c6cc00859b14ff80c >}}

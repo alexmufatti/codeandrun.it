@@ -13,7 +13,7 @@ Viste le premesse, è andata bene ;-)
 | Pace: 5:21min/km | Elevation: 46mt |
 | Distance: 8.67km | Duration: 46:25 |
 
-{{< figure src="20190626-activity-image.jpg" >}}
+{{< figurelink src="20190626-activity-image.jpg" >}}
 
 
-{{< figure src="20190626-activity-map.png" link="20190626-activity-map.png" title="Activity map" >}}
+{{< figurelink src="20190626-activity-map.png" >}}

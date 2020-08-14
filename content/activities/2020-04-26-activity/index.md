@@ -16,7 +16,7 @@ Salita da Bioggio a Gaggio tagliando per i 2 sentieri, mai fatti prima ma che fo
 Giro divertente ma faticoso, con un po' più di condizione forse più godibile ma comunque ne vale la pena.
 
 
-{{< figure src="20200426-activity-map.png" link="20200426-activity-map.png" title="Activity map" >}}
+{{< figurelink src="20200426-activity-map.png" >}}
 
 | | |
 | :-: | :-: |
@@ -26,8 +26,8 @@ Giro divertente ma faticoso, con un po' più di condizione forse più godibile m
 
 {{< strava id=3357697579 embedId=8c097db68a3c4159410870cdd277550b1d93e154 >}}
 
-{{< figure src="IMG_1942.jpg" >}}
-{{< figure src="IMG_1943.jpg" >}}
-{{< figure src="IMG_1944.jpg" >}}
-{{< figure src="IMG_1945.jpg" >}}
-{{< figure src="IMG_1946.jpg" >}}
+{{< figurelink src="IMG_1942.jpg" >}}
+{{< figurelink src="IMG_1943.jpg" >}}
+{{< figurelink src="IMG_1944.jpg" >}}
+{{< figurelink src="IMG_1945.jpg" >}}
+{{< figurelink src="IMG_1946.jpg" >}}

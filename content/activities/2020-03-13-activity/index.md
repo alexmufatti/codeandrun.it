@@ -15,7 +15,7 @@ Poco Nuvoloso, 16°C, Percepito 16°C, Umidità 59%, Vento 2m/s da S
 
 
 
-{{< figure src="20200313-activity-map.png" link="20200313-activity-map.png" title="Activity map" >}}
+{{< figurelink src="20200313-activity-map.png" >}}
 
 
 {{< strava id=3180478929 embedId=503344e9dc9d864454f26d42bb99ea717adb5c36 >}}

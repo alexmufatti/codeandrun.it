@@ -14,10 +14,10 @@ Sereno, 17°C, Percepito 17°C, Umidità 44%, Vento 2m/s da SSO
 | Pace: 5:29min/km | Elevation: 382mt |
 | Distance: 8.38km | Duration: 45:54 |
 
-{{< figure src="20200319-activity-image.jpg" >}}
+{{< figurelink src="20200319-activity-image.jpg" >}}
 
 
-{{< figure src="20200319-activity-map.png" link="20200319-activity-map.png" title="Activity map" >}}
+{{< figurelink src="20200319-activity-map.png" >}}
 
 
 {{< strava id=3198031532 embedId=fbba1306075634486ddf756159a04dc6c70b5256 >}}

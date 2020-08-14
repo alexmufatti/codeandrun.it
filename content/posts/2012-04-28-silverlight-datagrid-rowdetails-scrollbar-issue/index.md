@@ -16,7 +16,7 @@ While developing a customer application in Silverlight 4, we find a bug in the s
 
 If you have a custom datagrid _RowDetailsTemplate_ and this is opened and closed by a button click, you can see that, when opening the last visible row in your datagrid, the RowDetails  remains hidden, or partially hidden because the grid does not scroll automatically down to fully reveal it.
 
-{{< figure src="capture1.png" link="capture1.png" title="RowDetails bug" >}}
+{{< figurelink src="capture1.png" >}}
 
 <!--more-->
 

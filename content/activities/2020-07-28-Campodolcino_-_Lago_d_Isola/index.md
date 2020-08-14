@@ -17,24 +17,24 @@ places:
 
 Sereno, 24°C, Percepito 25°C, Umidità 75%, Vento 2m/s da SO
 
-{{< figure src="IMG_2398.jpg" link="IMG_2398.jpg" title="panoramica" >}}
+{{< figurelink src="IMG_2398.jpg" >}}
 Seconda escursione al lago di Isola. Questa volta voglio proseguire leggermente e scendendo dalla diga, faccio il giro completo del lago. 
 
-{{< figure src="IMG_2396.jpg" link="IMG_2396.jpg" title="lago" >}}
+{{< figurelink src="IMG_2396.jpg" >}}
 
 Probabilmente ci sono altri percorsi possibili ma, cercando su google maps (non trovo nessuna app che gestisca decentemente i sentieri), non trovo nulla di meglio che percorrere la strada asfaltata fino alla scalinata che mi riporta sulla diga dal lato opposto.
 
-{{< figure src="IMG_2397.jpg" link="IMG_2397.jpg" title="roccia" >}}
+{{< figurelink src="IMG_2397.jpg" >}}
 
 Purtroppo non ritrovo più il mio amico a 4 zampe :-(
 
-{{< figure src="IMG_2399.jpg" link="IMG_2399.jpg" title="diga" >}}
+{{< figurelink src="IMG_2399.jpg" >}}
 
-{{< figure src="IMG_2402.jpg" link="IMG_2402.jpg" title="fiume" >}}
+{{< figurelink src="IMG_2402.jpg" >}}
 
 {{< youtube pu0C0rh6deg >}}
 
-{{< figure src="20200728-activity-map.png" link="20200728-activity-map.png" title="map" >}}
+{{< figurelink src="20200728-activity-map.png" >}}
 
 
 {{< strava id=3828136997 embedId=b064a51878643705914e80c6a8689406c0856dc1 >}}

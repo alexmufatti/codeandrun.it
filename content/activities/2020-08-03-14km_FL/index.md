@@ -22,7 +22,7 @@ Pioggia, 18°C, Percepito 18°C, Umidità 90%, Vento 2m/s da NNE
 Primo allenamento dopo la _pausa_ della vacanza in montagna. 
 Come sempre in questo periodo molta più fatica del dovuto e difficoltà a tenere il passo. Tendo sempre ad accelerare troppo all'inizio e poi faccio fatica a mantenere il ritmo per tutto l'allenamento: doveva essere un fondo lento ma si è trasformato quasi in un medio.
 
-{{< figure src="20200803-activity-map.png" link="20200803-activity-map.png" title="map" >}}
+{{< figurelink src="20200803-activity-map.png" >}}
 
 
 {{< strava id=3859018298 embedId=8a28b6f1d0bab50a985cee4201174c82d494fc54 >}}

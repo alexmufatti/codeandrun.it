@@ -19,13 +19,13 @@ places:
 
 Poco Nuvoloso, 29°C, Percepito 30°C, Umidità 50%, Vento 2m/s da S
 
-{{< figure src="IMG_2524.jpg" link="IMG_2524.jpg" >}}
+{{< figurelink src="IMG_2524.jpg" >}}
 
 Primo allenamento della fase di scarico prima della gara.
 
 Cerco di tenere i battiti bassi senza guardare troppo il ritmo, obiettivo non superare Z2. Ci sono riuscito abbastanza bene rallentando un po' nel ritorno a casa.
 
-{{< figure src="20200810-activity-map.png" link="20200810-activity-map.png" title="map" >}}
+{{< figurelink src="20200810-activity-map.png" >}}
 
 
 {{< strava id=3891901146 embedId=b6f0fecdc5dceb2c68c42fe0e981bd8b09f21ee0 >}}

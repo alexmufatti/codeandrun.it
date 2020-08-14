@@ -14,7 +14,7 @@ Nuvoloso, 3°C, Percepito 3°C, Umidità 83%, Vento 1m/s da NNE
 
 
 
-{{< figure src="20200216-activity-map.png" link="20200216-activity-map.png" title="Activity map" >}}
+{{< figurelink src="20200216-activity-map.png" >}}
 
 
 {{< strava id=3104471430 embedId=cdb2321ab10e5e0e007855e7c90871306b2f221a >}}

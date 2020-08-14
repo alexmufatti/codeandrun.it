@@ -19,9 +19,9 @@ Parto con il sole, torno con un acquazzone ma sono contento del risultato: una m
 
 È inutile, nonostante tutto, correre in pianura mi sa sempre più soddisfazione!
 
-{{< figure src="IMG_2010.jpg" >}}
+{{< figurelink src="IMG_2010.jpg" >}}
 
-{{< figure src="20200516-activity-map.png" link="20200516-activity-map.png" title="Activity map" >}}
+{{< figurelink src="20200516-activity-map.png" >}}
 
 
 {{< strava id=3463717060 embedId=9e08ae63d51ae1669840ed9bb2730b47a3c6bec8 >}}

@@ -14,12 +14,12 @@ Sereno, 26°C, Percepito 26°C, Umidità 46%, Vento 2m/s da S
 | Pace: 5:50min/km | Elevation: 261mt |
 | Distance: 7.21km | Duration: 42:06 |
 
-{{< figure src="IMG_2039.jpg" link="IMG_2039.jpg" title="Vista dalla vetta" >}}
+{{< figurelink src="IMG_2039.jpg" >}}
 
-{{< figure src="IMG_2040.jpg" link="IMG_2040.jpg" title="La chiesa" >}}
+{{< figurelink src="IMG_2040.jpg" >}}
 
 
-{{< figure src="20200521-activity-map.png" link="20200521-activity-map.png" title="Activity map" >}}
+{{< figurelink src="20200521-activity-map.png" >}}
 
 
 {{< strava id=3489181452 embedId=52948b0e3943479d40e20a5d56602fec73db76c9 >}}

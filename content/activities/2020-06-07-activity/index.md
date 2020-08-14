@@ -14,12 +14,12 @@ Pioggia, 16°C, Percepito 16°C, Umidità 80%, Vento 2m/s da NNE
 | Pace: 4:54min/km | Elevation: 46mt |
 | Distance: 10.52km | Duration: 44:17 |
 
-{{< figure src="IMG_2135.jpg" link="IMG_2135.jpg" title="Laveno" >}}
+{{< figurelink src="IMG_2135.jpg" >}}
 
-{{< figure src="IMG_2136.jpg" link="IMG_2136.jpg" title="Fiume in piena" >}}
+{{< figurelink src="IMG_2136.jpg" >}}
 
 
-{{< figure src="20200607-activity-map.png" link="20200607-activity-map.png" title="Activity map" >}}
+{{< figurelink src="20200607-activity-map.png" >}}
 
 
 {{< strava id=3578954733 embedId=0d52744fc2d0aa94d1cd9b2770aaccbe2fcb6018 >}}

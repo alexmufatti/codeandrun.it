@@ -9,6 +9,6 @@ categories:
 date: 2008-01-09 00:58:46
 ---
 
-{{< figure src="060420081.jpg?w=225&amp;h=300" link="060420081.jpg?w=225&amp;h=300" title="Tazza" >}}!
+{{< figurelink src="060420081.jpg?w=225&amp;h=300" >}}!
 
 Ok, la foto non le rende giustizia ma é bella vero?? :-)

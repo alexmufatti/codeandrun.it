@@ -14,7 +14,7 @@ Sereno, 15°C, Percepito 15°C, Umidità 64%, Vento 2m/s da ONO
 
 
 
-{{< figure src="20200203-activity-map.png" link="20200203-activity-map.png" title="Activity map" >}}
+{{< figurelink src="20200203-activity-map.png" >}}
 
 
 {{< strava id=3068096865 embedId=e53a92921906d44240365ab5dc306ca091592fc7 >}}

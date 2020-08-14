@@ -16,7 +16,7 @@ categories:
 date: 2012-09-18 15:21:18
 ---
 
-{{< figure src="onlybutton.png" link="onlybutton.png" title="3D button design" >}}
+{{< figurelink src="onlybutton.png" >}}
 
 Here are my slides from the [Graphical Web 2012](http://www.graphicalweb.org "Graphical Web 2012") conference in Zürich. Enjoy them!! ;-)
 

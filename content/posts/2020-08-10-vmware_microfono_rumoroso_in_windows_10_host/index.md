@@ -13,7 +13,7 @@ date: 2020-08-10 10:00:00
 summary: Breve tutorial su come migliorare la quolità della registrazione dal micorfono in una Virtual Machine vmware Windows 10.
 ---
 
-{{< figure src="mic.jpg" link="mic.jpg" >}}
+{{< figurelink src="mic.jpg" >}}
 
 Utilizzando Linux come sistema operativo di base a volte capita di dover avviare delle macchine virtuali Windows per eseguire quei programmi che su linux non esistono o hanno funzionalità limitate.
 Esempi tipici sono *Skype for Business* che non esiste in linux o *Teams* che non ha tutte le funzionalità della versione nativa.
@@ -24,7 +24,7 @@ Dopo un po' di prove e molte ricerche ho trovato un modo, assolutamente contro-i
 
 Per prima cosa installate i VmWareTools se non lo avete ancora fatto e assicuratevi che nella macchina virtuale sia configurata una scheda audio in modalità `auto detect`.
 
-{{< figure src="setup.jpg" link="setup.jpg" >}}
+{{< figurelink src="setup.jpg" >}}
 
 A questo punto spegnete la macchina virtuale ed editate il corrispettivo file `.vmx`.
 
@@ -35,13 +35,13 @@ Ora montate il cd dei vmware tools come se voleste reinstallarli (potete anche u
 
 Ora aprite il `Device Manager`; troverete una periferica multimediale non riconosciuta. Scegliete di aggiornare il driver e, invece di farlo cercare automaticamente dal sistema operativo, scegliete di indicare voi dove trovarlo. 
 
-{{< figure src="browse.jpg" link="browse.jpg" >}}
+{{< figurelink src="browse.jpg" >}}
 
 Come percorso scegliete quello dove avete scompattato i vmware Tools e poi navigate nelle sotto cartelle `vmware/drivers/audio/vista`.
 
-{{< figure src="folders.jpg" link="folders.jpg" >}}
+{{< figurelink src="folders.jpg" >}}
 
 Verrà quindi installato il driver corretto e da quel momento non dovreste avere più problemi di disturbi nell'uso del microfono all'interno di Windows 10 in vmware!
 
-{{< figure src="done.jpg" link="done.jpg" >}}
+{{< figurelink src="done.jpg" >}}
 

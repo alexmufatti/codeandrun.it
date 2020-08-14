@@ -14,7 +14,7 @@ Gli 8km di medio sono andati però abbastanza bene.
 
 
 
-{{< figure src="20190720-activity-map.png" link="20190720-activity-map.png" title="Activity map" >}}
+{{< figurelink src="20190720-activity-map.png" >}}
 
 
 {{< strava id=2547953805 embedId=639c8b10ee16829bc8d509f413260026002bfef9 >}}

@@ -17,14 +17,14 @@ places:
 
 Nubi Sparse, 20°C, Percepito 20°C, Umidità 56%, Vento 2m/s da SSO
 
-{{< figure src="IMG_2363.jpg" link="IMG_2363.jpg" title="ponte romano" >}}
+{{< figurelink src="IMG_2363.jpg" >}}
 
 Passeggiata tranquilla passando dal ponte Romano e poi lungo il sentiero abbastanza pendente che porta a Fraciscio.
 
 
-{{< figure src="IMG_2364.jpg" link="IMG_2364.jpg" title="cascata" >}}
+{{< figurelink src="IMG_2364.jpg" >}}
 
-{{< figure src="20200726-activity-map.png" link="20200726-activity-map.png" title="map" >}}
+{{< figurelink src="20200726-activity-map.png" >}}
 
 
 {{< strava id=3819935259 embedId=fd3dcf52f45b95a6f152d75d2ea9c7950af74f46 >}}

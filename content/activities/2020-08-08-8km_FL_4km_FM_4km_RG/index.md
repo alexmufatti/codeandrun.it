@@ -18,7 +18,7 @@ places:
 
 Sereno, 27°C, Percepito 29°C, Umidità 60%, Vento 1m/s da SSO
 
-{{< figure src="IMG_2523.jpg" link="IMG_2523.jpg" title="path" >}}
+{{< figurelink src="IMG_2523.jpg" >}}
 
 Ultimo allenamento prima del'Engadiner Sommerlauf. La scelta dell'orario non è sicuramente delle migliori, si muore di caldo.
 
@@ -26,7 +26,7 @@ Visto che è una giornata no, tento di tenere il ritmo ed mi fermo ogni tanto a 
 non molto incoraggiante in vista della gara.
 
 
-{{< figure src="20200808-activity-map.png" link="20200808-activity-map.png" title="map" >}}
+{{< figurelink src="20200808-activity-map.png" >}}
 
 
 {{< strava id=3882021486 embedId=06224c2fb5070496225ec7ece337926ddad4b40b >}}

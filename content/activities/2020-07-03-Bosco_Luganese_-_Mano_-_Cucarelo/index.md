@@ -21,10 +21,10 @@ Altra uscita in compagnia e altra salita, stavolta meno faticosa.
 
 Per curiosità ho voluto confrontare questa corsa con una fatta un paio di mesi fa sullo stesso percorso e i risultati sono abbastanza impietosi
 
-{{< figure src="activity_compare.png" link="activity_compare.png" title="Comparazione tra le attività" >}}
+{{< figurelink src="activity_compare.png" >}}
 
 Ora ho dei dati oggettivi per dire che non sono per nulla in forma!
 
-{{< figure src="20200703-activity-map.png" link="20200703-activity-map.png" title="Activity Map" >}}
+{{< figurelink src="20200703-activity-map.png" >}}
 
 {{< strava id=3706761692 embedId=e58d521690f70f2d56a99cce51955b42f738abf3 >}}

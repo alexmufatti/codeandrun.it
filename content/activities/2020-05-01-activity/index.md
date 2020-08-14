@@ -19,7 +19,7 @@ Dovrò ricredermi sull'efficacia degli allenamenti in montagna anche per la cors
 
 
 
-{{< figure src="20200501-activity-map.png" link="20200501-activity-map.png" title="Activity map" >}}
+{{< figurelink src="20200501-activity-map.png" >}}
 
 
 {{< strava id=3380955243 embedId=c48b4b9b7f9df28fbde6a750905db006c8489146 >}}

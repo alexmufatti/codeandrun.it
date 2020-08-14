@@ -14,7 +14,7 @@ Sereno, 10°C, Percepito 10°C, Umidità 52%, Vento 2m/s da NNE
 
 
 
-{{< figure src="20200129-activity-map.png" link="20200129-activity-map.png" title="Activity map" >}}
+{{< figurelink src="20200129-activity-map.png" >}}
 
 
 {{< strava id=3053474137 embedId=a5569e046d07509c802c7955148f8ae59dc094b7 >}}

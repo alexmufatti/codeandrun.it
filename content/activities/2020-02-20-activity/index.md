@@ -14,7 +14,7 @@ Sereno, 12°C, Percepito 12°C, Umidità 44%, Vento 1m/s da S
 
 
 
-{{< figure src="20200220-activity-map.png" link="20200220-activity-map.png" title="Activity map" >}}
+{{< figurelink src="20200220-activity-map.png" >}}
 
 
 {{< strava id=3116464627 embedId=d9aac1d4eb5e21464762064184031bba187a1770 >}}

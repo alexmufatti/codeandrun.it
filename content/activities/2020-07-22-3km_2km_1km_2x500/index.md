@@ -19,7 +19,7 @@ Possibilità Di Pioggia Leggera, 20°C, Percepito 21°C, Umidità 83%, Vento 1m/
 Seconda uscita, sempre sullo stesso percorso che ho scoperto essere l'unico più o meno in piano. Anche in questo caso grande fatica a tenere il ritmo nelle frazioni lunghe.
 
 
-{{< figure src="20200722-activity-map.png" link="20200722-activity-map.png" title="map" >}}
+{{< figurelink src="20200722-activity-map.png" >}}
 
 
 {{< strava id=3801622892 embedId=317c357184320959d068fbfefe7ed38b3c741d6d >}}

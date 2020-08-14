@@ -18,9 +18,9 @@ La strada scende in maniera abbastanza impegnativa verso Manno con alcune parti 
 | Pace: 5:20min/km | Elevation: 248mt |
 | Distance: 7.01km | Duration: 37:19 |
 
-{{< figure src="IMG_1915.jpg" >}}
+{{< figurelink src="IMG_1915.jpg" >}}
 
-{{< figure src="20200416-activity-map.png" link="20200416-activity-map.png" title="Activity map" >}}
+{{< figurelink src="20200416-activity-map.png" >}}
 
 
 {{< strava id=3308050970 embedId=3a721521929e346ab4cf605a74ba729069536361 >}}

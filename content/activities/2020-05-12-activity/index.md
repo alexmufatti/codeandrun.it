@@ -18,7 +18,7 @@ Visto il tempo a disposizione devido di fare un giro tranquillo. Questa volta pe
 È bello correre un po' in pianura, c'è una bella sensazione di leggerezza :)
 
 
-{{< figure src="20200512-activity-map.png" link="20200512-activity-map.png" title="Activity map" >}}
+{{< figurelink src="20200512-activity-map.png" >}}
 
 
 {{< strava id=3440357584 embedId=41e2327e9c5cb0d387046ad8d28851405f26df01 >}}

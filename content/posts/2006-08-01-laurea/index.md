@@ -9,7 +9,7 @@ categories:
 date: 2006-08-01 14:47:07
 ---
 
-[{{< figure src="alex_tesi.jpg" link="alex_tesi.jpg" title="Laurea di alexmufatti, su Flickr" >}}
+[{{< figurelink src="alex_tesi.jpg" >}}
 
 Dottore... dottore... dottore del buco del .... :-D
 

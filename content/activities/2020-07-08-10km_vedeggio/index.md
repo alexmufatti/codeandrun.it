@@ -17,12 +17,12 @@ places:
 
 Sereno, 27°C, Percepito 27°C, Umidità 46%, Vento 3m/s da SSO
 
-{{< figure src="IMG_2280.jpg" link="IMG_2280.jpg" title="Vedeggio" >}}
+{{< figurelink src="IMG_2280.jpg" >}}
 
 Corsetta easy dopo tanto tempo lungo il Vedeggio. La forma è ancora da ritrovare ma un po' le gambe iniziano a girare.
 
 
-{{< figure src="20200708-activity-map.png" link="20200708-activity-map.png" title="map" >}}
+{{< figurelink src="20200708-activity-map.png" >}}
 
 
 {{< strava id=3732843152 embedId=6165409ba9acbcaa94d0cd555b49c5af59b14b83 >}}

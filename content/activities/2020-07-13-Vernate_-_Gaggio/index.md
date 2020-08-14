@@ -25,7 +25,7 @@ Corsa in compagnia sulla salita di Vernate. Questo percorso mi piace perché la 
 Rispetto a qualche mese fa si vede ancora la differenza nei tempi, l'ultima volta ero stato 20 s/km più rapido sulla salita.
 
 
-{{< figure src="20200713-activity-map.png" link="20200713-activity-map.png" title="map" >}}
+{{< figurelink src="20200713-activity-map.png" >}}
 
 
 {{< strava id=3755291966 embedId=9f09d0e38b1aa5e4d74453fbba28196c7bc49131 >}}

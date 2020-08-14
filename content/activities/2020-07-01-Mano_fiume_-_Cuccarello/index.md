@@ -23,7 +23,7 @@ Uscita in compagnia dopo tanto tempo e sun po' di salita anche questo dopo molto
 
 
 
-{{< figure src="20200701-activity-map.png" link="20200701-activity-map.png" title="Activity Map" >}}
+{{< figurelink src="20200701-activity-map.png" >}}
 
 
 {{< strava id=3697364696 embedId=9463613da1a2c979bcc6aacdfd4cb48e11dafbb1 >}}

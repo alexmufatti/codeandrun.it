@@ -13,4 +13,4 @@ Anche un'uscita nel caldo torrido. Prima metà dell'allenamento tranquilla, in c
 
 
 
-{{< figure src="20190628-activity-map.png" link="20190628-activity-map.png" title="Activity map" >}}
+{{< figurelink src="20190628-activity-map.png" >}}

@@ -13,7 +13,7 @@ Temperatura bollente, ho dovuto fare qualche pausa all'ombra perché era davvero
 | Pace: 4:26min/km | Elevation: 44mt |
 | Distance: 10.01km | Duration: 44:20 |
 
-{{< figure src="20190624-activity-image.jpg" >}}
+{{< figurelink src="20190624-activity-image.jpg" >}}
 
 
-{{< figure src="20190624-activity-map.png" link="20190624-activity-map.png" title="Activity map" >}}
+{{< figurelink src="20190624-activity-map.png" >}}

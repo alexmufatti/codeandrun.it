@@ -14,7 +14,7 @@ Con un po' di ritardo eccomi a raccontarvi della mia "impresa sportiva": la sali
 
 La comitiva (cinque persone: Io, Laura, Sara, Sara-2, Davide) è partita sabato mattina dal lago Morasco (1850 metri). Zaino in spalla abbiamo iniziato la salita;
 
-{{< figure src="Blinnenhorn-010.jpg" link="Blinnenhorn-010.jpg" title="Blinnenhorn 010" >}}
+{{< figurelink src="Blinnenhorn-010.jpg" >}}
 
 destinazione: rifugio Claudio e bruno, quota 2710 dove avremmo passato la notte. La salita, dopo uno strappo iniziale, non è stata particolarmente faticosa e, tra un avvistamento di marmotte e l'altro siamo arrivati fino al lago Sabbione dove abbiamo fatto una breve sosta mangereccia :-).
 
@@ -22,11 +22,11 @@ Ripresa la salita, dopo 3 ore circa di cammino, siamo giunti al rifugio giusto i
 
 6:00 - sveglia, colazione e... pronti a partire per la rampa finale! La salita è più impegnativa del giorno precedente e si passa molto vicino al ghiacciaio; veramente spettacolare trovarsi lì in mezzo, tra montagne e neve!
 
-{{< figure src="Blinnenhorn-030.jpg" link="Blinnenhorn-030.jpg" title="Blinnenhorn 030" >}}
+{{< figurelink src="Blinnenhorn-030.jpg" >}}
 
 L'ultimo tratto è davvero ripido e infatti il gruppo si allunga un po' ma alla fine tutti arriviamo in vetta!! 
 
-{{< figure src="blinnenhorn-095.jpg" link="blinnenhorn-095.jpg" title="Blinnenhorn 095" >}}
+{{< figurelink src="blinnenhorn-095.jpg" >}}
 
 Un panorama mozzafiato a 360°: montagne ovunque, ma noi siamo sulla più alta ;-)!! Giusto il tempo delle foto di rito e di sgranocchiare qualcosa che ci tuffiamo in discesa; ci aspetta un dislivello notevole: 1500 metri.
 

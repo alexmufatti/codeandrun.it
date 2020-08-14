@@ -12,7 +12,7 @@ Nuvoloso, 9°C, Percepito 9°C, Umidità 67%, Vento 1m/s da E
 
 
 
-{{< figure src="20200217-activity-map.png" link="20200217-activity-map.png" title="Activity map" >}}
+{{< figurelink src="20200217-activity-map.png" >}}
 
 
 {{< strava id=3108634777 embedId=077287c40bcf31e9265f763f231bdf9d8672f8b7 >}}

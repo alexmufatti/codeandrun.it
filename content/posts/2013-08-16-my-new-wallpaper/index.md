@@ -16,7 +16,7 @@ date: 2013-08-16 17:47:42
 
 Here is my new desktop wallpaper (and current blog header), one of the best shot I've taken during my MTB trips.
 
-{{< figure src="20130704_195307.jpg" link="20130704_195307.jpg" title="background di alexmufatti, su Flickr" >}} Wallpaper Crocione!
+{{< figurelink src="20130704_195307.jpg" >}} Wallpaper Crocione!
 
 It was taken [here](https://www.google.it/maps/preview#!data=!1m4!1m3!1d3265!2d8.6702513!3d45.9207276!2m1!1e3&amp;fid=7) on Cuvignone pass and, on the background, you can see (from left to right): lake Varese, lake Monate and lake Maggiore.
 

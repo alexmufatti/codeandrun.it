@@ -14,7 +14,7 @@ Tagliate in lunghezza per riuscire a sopravvivere..
 
 
 
-{{< figure src="20190708-activity-map.png" link="20190708-activity-map.png" title="Activity map" >}}
+{{< figurelink src="20190708-activity-map.png" >}}
 
 
 {{< strava id=2514379063 embedId=91619e236ccb653e0cb5db8cb8af3c54f2e23bd7 >}}

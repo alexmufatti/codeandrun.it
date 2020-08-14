@@ -14,7 +14,7 @@ Sereno, 13°C, Percepito 13°C, Umidità 46%, Vento 3m/s da NO
 
 
 
-{{< figure src="20200214-activity-map.png" link="20200214-activity-map.png" title="Activity map" >}}
+{{< figurelink src="20200214-activity-map.png" >}}
 
 
 {{< strava id=3098780040 embedId=5e3daf40a1d47fd5802daaf0d8fb9b1f6e9a556b >}}

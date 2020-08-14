@@ -17,10 +17,10 @@ Il fatto di non uscire poco si fa sentire.
 | Pace: 5:50min/km | Elevation: 286mt |
 | Distance: 6.19km | Duration: 36:04 |
 
-{{< figure src="20200405-activity-image.jpg" >}}
+{{< figurelink src="20200405-activity-image.jpg" >}}
 
 
-{{< figure src="20200405-activity-map.png" link="20200405-activity-map.png" title="Activity map" >}}
+{{< figurelink src="20200405-activity-map.png" >}}
 
 
 {{< strava id=3256942836 embedId=454f918e7974897510cd139e6a9be385a97fdefa >}}

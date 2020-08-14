@@ -17,10 +17,10 @@ Partenza un po' troppo forte, non son più abituato ad andare in salita, ma nel 
 | Pace: 4:50min/km | Elevation: 166mt |
 | Distance: 7.67km | Duration: 37:03 |
 
-{{< figure src="20200406-activity-image.jpg" >}}
+{{< figurelink src="20200406-activity-image.jpg" >}}
 
 
-{{< figure src="20200406-activity-map.png" link="20200406-activity-map.png" title="Activity map" >}}
+{{< figurelink src="20200406-activity-map.png" >}}
 
 
 {{< strava id=3265608028 embedId=68a65a7cf6e1e51541696b64b8c799215c042bd7 >}}

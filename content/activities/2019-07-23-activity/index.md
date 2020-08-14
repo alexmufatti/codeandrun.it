@@ -14,7 +14,7 @@ Caldo torrido, la Z2 ce la dimentichiamo per questa volta :).
 
 
 
-{{< figure src="20190723-activity-map.png" link="20190723-activity-map.png" title="Activity map" >}}
+{{< figurelink src="20190723-activity-map.png" >}}
 
 
 {{< strava id=2556126941 embedId=9670f7d0f72a58d4b5d2ab59d90125ca6304de27 >}}

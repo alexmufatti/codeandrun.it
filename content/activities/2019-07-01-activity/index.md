@@ -13,9 +13,9 @@ Non un gran periodo in generale per gli allenamenti. Dovevano essere anche 4km i
 | Pace: 4:45min/km | Elevation: 76mt |
 | Distance: 14.00km | Duration: 1:06:33 |
 
-{{< figure src="20190701-activity-image.jpg" >}}
+{{< figurelink src="20190701-activity-image.jpg" >}}
 
 
-{{< figure src="20190701-activity-map.png" link="20190701-activity-map.png" title="Activity map" >}}
+{{< figurelink src="20190701-activity-map.png" >}}
 
 {{< strava id=2496053404 embedId=84ce0b5676a21d734bc845c0013cb7016d426ed2 >}}

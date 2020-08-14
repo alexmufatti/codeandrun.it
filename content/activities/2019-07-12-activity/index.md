@@ -13,7 +13,7 @@ Il GPS oggi non voleva collaborare, mi è già accaduto prima. Nei primi km ha s
 
 
 
-{{< figure src="20190712-activity-map.png" link="20190712-activity-map.png" title="Activity map" >}}
+{{< figurelink src="20190712-activity-map.png" >}}
 
 
 {{< strava id=2525598397 embedId=5278150fe554cda0f961ad32576577fbed7f457a >}}

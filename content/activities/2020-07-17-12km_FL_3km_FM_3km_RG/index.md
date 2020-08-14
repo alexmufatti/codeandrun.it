@@ -27,12 +27,12 @@ Mi aspettavo di fare un po' di fatica visto che è molto tempo che non corro per
 
 Sicuramente anche il caldo e l'umidità non hanno aiutato e si sono sommati alla stanchezza. Purtroppo non riesco ma
 
-{{< figure src="IMG_2311.jpg" link="IMG_2311.jpg" title="selfie" >}}
+{{< figurelink src="IMG_2311.jpg" >}}
 
 Fortunatamente manca ancora qualche settimana di allenamenti, speriamo di recuperare un po'.
 
 
-{{< figure src="20200717-activity-map.png" link="20200717-activity-map.png" title="map" >}}
+{{< figurelink src="20200717-activity-map.png" >}}
 
 
 {{< strava id=3774887608 embedId=893192676cb161032626ebfa38b158a1dcbe94ac >}}

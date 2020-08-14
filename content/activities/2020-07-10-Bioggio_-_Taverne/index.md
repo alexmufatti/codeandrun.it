@@ -28,6 +28,6 @@ Andare con la BdC mi sembra molto diverso rispetto alla MTB: molto più lavoro d
 
 Bisogna allenarsi!
 
-{{< figure src="20200710-activity-map.png" link="20200710-activity-map.png" title="map" >}}
+{{< figurelink src="20200710-activity-map.png" >}}
 
 {{< strava id=3742150536 embedId=5fdcbf4043368694aee7650904ef7029067d0023 >}}

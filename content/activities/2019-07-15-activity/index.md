@@ -13,7 +13,7 @@ Oggi giornata di lento di recupero dopo la faticaccia di ieri. Ho voluto provare
 
 
 
-{{< figure src="20190715-activity-map.png" link="20190715-activity-map.png" title="Activity map" >}}
+{{< figurelink src="20190715-activity-map.png" >}}
 
 
 {{< strava id=2533810967 embedId=31253cffb7ae6349fc1edc688f3f0ac4da0e088c >}}

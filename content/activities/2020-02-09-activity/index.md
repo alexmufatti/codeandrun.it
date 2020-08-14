@@ -14,7 +14,7 @@ Sereno, 3°C, Percepito 3°C, Umidità 82%, Vento 1m/s da NNE
 
 
 
-{{< figure src="20200209-activity-map.png" link="20200209-activity-map.png" title="Activity map" >}}
+{{< figurelink src="20200209-activity-map.png" >}}
 
 
 {{< strava id=3085274522 embedId=495c4fe77dbdfebb8bb5b54e3e95e3696cf84ae2 >}}

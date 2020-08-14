@@ -15,7 +15,7 @@ Nuvoloso, 19°C, Percepito 19°C, Umidità 52%, Vento 1m/s da NNO
 
 
 
-{{< figure src="20200224-activity-map.png" link="20200224-activity-map.png" title="Activity map" >}}
+{{< figurelink src="20200224-activity-map.png" >}}
 
 
 {{< strava id=3127786539 embedId=e1f41e2ac76bf5b270daaa08fc7eb2b836804fa3 >}}
