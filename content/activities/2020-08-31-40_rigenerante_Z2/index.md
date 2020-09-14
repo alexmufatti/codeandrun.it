@@ -4,7 +4,7 @@ tags:
 - sport
 - running
 date: 2020-08-31 12:19:36
-images: ["20200831-activity-map.png" "zones.jpg"]
+images: ["20200831-activity-map.png", "zones.jpg"]
 activitydata:
   pace: 4:57min/km
   elevation: 34mt
