@@ -11,7 +11,6 @@ activitydata:
   distance: 10.01km
   duration: 49:54
 places: []
-
 ---
 
 Nubi Sparse, 14°C, Percepito 14°C, Umidità 70%, Vento 1m/s da ESE - Klimat.app

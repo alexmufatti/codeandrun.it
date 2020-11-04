@@ -11,7 +11,6 @@ activitydata:
   distance: 14.00km
   duration: 1:03:56
 places: []
-
 ---
 
 Nuvoloso, 14°C, Percepito 14°C, Umidità 60%, Vento 2m/s da SSO - Klimat.app

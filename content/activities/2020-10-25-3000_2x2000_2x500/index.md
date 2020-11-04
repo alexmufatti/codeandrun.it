@@ -11,7 +11,6 @@ activitydata:
   distance: 12.50km
   duration: 55:40
 places: []
-
 ---
 
 Poco Nuvoloso, 13°C, Percepito 13°C, Umidità 79%, Vento 0m/s da NE - Klimat.app
