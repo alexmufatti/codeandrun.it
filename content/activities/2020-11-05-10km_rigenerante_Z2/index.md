@@ -12,7 +12,6 @@ activitydata:
   duration: 48:44
 places: []
 
-draft: true
 ---
 
 Sereno, 18°C, Percepito 18°C, Umidità 71%, Vento 2m/s da SSO - Klimat.app
