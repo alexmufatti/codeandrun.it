@@ -11,8 +11,6 @@ activitydata:
   distance: 9.72km
   duration: 43:33
 places: []
-
-draft: true
 ---
 
 Per lo più soleggiato, 10°C, Percepito 10°C, Umidità 56%, Vento 1m/s da OSO - Klimat.app
