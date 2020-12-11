@@ -12,7 +12,6 @@ activitydata:
   duration: 38:13
 places: []
 
-draft: true
 ---
 
 Nubi Sparse, 8°C, Percepito 8°C, Umidità 64%, Vento 1m/s da SE - Klimat.app
