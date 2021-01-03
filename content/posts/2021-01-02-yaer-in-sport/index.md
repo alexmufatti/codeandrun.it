@@ -8,7 +8,6 @@ tags:
 - sport
 - running
 date: 2021-01-02 10:00:00
-draft: true
 ---
 
 {{< figurelink src="days.jpg" >}}
