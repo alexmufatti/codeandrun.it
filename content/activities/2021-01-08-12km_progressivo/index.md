@@ -11,12 +11,11 @@ activitydata:
   distance: 12.00km
   duration: 53:41
 places: []
-
-draft: true
 ---
 
 Prevalentemente soleggiato, 3°C, Percepito 2°C, Umidità 45%, Vento 1m/s da NO - Klimat.app
 
+Un bel progressivo. Probabilmente un po' troppo tirato visto che la frequenza cardiaca è stata un po' più alta di quella degli ultimi allenamenti simili.
 
 
 {{< figurelink src="20210108-activity-map.png" title="map" >}}

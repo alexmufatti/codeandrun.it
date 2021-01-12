@@ -11,13 +11,11 @@ activitydata:
   distance: 12.44km
   duration: 53:47
 places: []
-
-draft: true
 ---
 
 Pioggia leggera, 1°C, Percepito 0°C, Umidità 100%, Vento 1m/s da SSO - Klimat.app
 
-
+Allenamento abbastanza impegnativo. Ho dovuto prendermi qualche pausa camminando durante i recuperi, faccio ancora fatica a recuperare correndo, mi sembra che questo aspetto sia difficile da migliorare.
 
 {{< figurelink src="20210106-activity-map.png" title="map" >}}
 
