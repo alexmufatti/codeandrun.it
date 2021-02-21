@@ -13,8 +13,6 @@ activitydata:
   distance: 0.00km
   duration: 50:02
 places: []
-
-draft: true
 ---
 
 
