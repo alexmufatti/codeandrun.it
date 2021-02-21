@@ -1,4 +1,4 @@
-        ---
+---
 title: Bosco Luganese - Manno - Cuccarello
 tags:
 - sport
