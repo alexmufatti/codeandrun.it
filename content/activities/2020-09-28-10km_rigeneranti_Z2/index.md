@@ -16,6 +16,8 @@ places: []
 
 Sereno, 17°C, Percepito 17°C, Umidità 51%, Vento 2m/s da SO - Klimat.app
 
+<!--more-->
+
 
 
 {{< figurelink src="20200928-activity-map.png" title="map" >}}

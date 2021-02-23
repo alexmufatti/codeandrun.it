@@ -8,6 +8,8 @@ date: 2020-03-13 12:08:38
 
 Poco Nuvoloso, 16°C, Percepito 16°C, Umidità 59%, Vento 2m/s da S
 
+<!--more-->
+
 | | |
 | :-: | :-: |
 | Pace: 6:12min/km | Elevation: 267mt |

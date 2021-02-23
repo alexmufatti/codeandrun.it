@@ -16,6 +16,8 @@ places: []
 
 Nubi Sparse, 20°C, Percepito 21°C, Umidità 88%, Vento 1m/s da SSO - Klimat.app
 
+<!--more-->
+
 
 
 {{< figurelink src="20200921-activity-map.png" title="map" >}}

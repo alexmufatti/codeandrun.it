@@ -15,6 +15,8 @@ places: []
 
 Per lo più soleggiato, 6°C, Percepito 6°C, Umidità 73%, Vento 2m/s da O - Klimat.app
 
+<!--more-->
+
 
 
 {{< figurelink src="20201213-activity-map.png" title="map" >}}

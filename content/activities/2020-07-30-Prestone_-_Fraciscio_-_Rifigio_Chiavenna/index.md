@@ -19,6 +19,8 @@ places:
 
 Sereno, 22°C, Percepito 22°C, Umidità 86%, Vento 1m/s da S
 
+<!--more-->
+
 {{< figurelink src="IMG_2433.jpg" >}}
 
 Oggi decido di provare a fare una bella corsa in salita. So già che non riuscirò a correre per tutto il percorso ma l'obiettivo è comunque quello di andare il più velocemente possibile per fare uno sforzo prolungato.

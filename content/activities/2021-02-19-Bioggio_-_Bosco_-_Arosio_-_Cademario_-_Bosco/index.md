@@ -16,6 +16,8 @@ places: ["bioggio", "bosco luganese", "arosio", "cademario"]
 
 Cielo coperto, 10°C, Percepito 8°C, Umidità 62%, Vento 1m/s da N - Klimat.app
 
+<!--more-->
+
 Primo collinare con una distanza non breve da un po' di tempo.
 
 {{< figurelink src="IMG_3503.jpg" title="sentiero">}}

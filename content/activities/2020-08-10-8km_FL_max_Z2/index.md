@@ -19,6 +19,8 @@ places:
 
 Poco Nuvoloso, 29°C, Percepito 30°C, Umidità 50%, Vento 2m/s da S
 
+<!--more-->
+
 {{< figurelink src="IMG_2524.jpg" >}}
 
 Primo allenamento della fase di scarico prima della gara.

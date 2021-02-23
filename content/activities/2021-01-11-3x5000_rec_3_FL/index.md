@@ -15,6 +15,8 @@ places: ["bioggio","caslano","agno"]
 
 Prevalentemente soleggiato, 0°C, Percepito -1°C, Umidità 61%, Vento 2m/s da SE - Klimat.app
 
+<!--more-->
+
 Allenamento molto duro ☠️! Il percorso scelto probabilmente non era dei migliori per il tipo di attività.
 In ogni ripetuta c'è stato una parte in salita, specialmente in quella di mezzo dove la salita e discesa della scalinata del monte di Caslano mi hanno un po' _rotto le gambe_.
 

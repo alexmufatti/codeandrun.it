@@ -9,6 +9,8 @@ images: ["20200428-activity-map.png"]
 
 Pioggia Leggera, 16°C, Percepito 16°C, Umidità 75%, Vento 1m/s da NNE
 
+<!--more-->
+
 
 | | |
 | :-: | :-: |

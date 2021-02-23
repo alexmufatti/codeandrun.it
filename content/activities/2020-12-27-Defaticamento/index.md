@@ -17,6 +17,8 @@ draft: true
 
 Per lo più chiaro, 2°C, Percepito 2°C, Umidità 69%, Vento 1m/s da OSO - Klimat.app
 
+<!--more-->
+
 
 
 {{< figurelink src="20201227-activity-map.png" title="map" >}}

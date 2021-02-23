@@ -9,6 +9,8 @@ images: ["IMG_1794.jpg"]
 
 Sereno, 9°C, Percepito 9°C, Umidità 44%, Vento 1m/s da ENE
 
+<!--more-->
+
 | | |
 | :-: | :-: |
 | Pace: 4:21min/km | Elevation: 118mt |

@@ -18,6 +18,8 @@ places:
 
 Sereno, 24°C, Percepito 24°C, Umidità 65%, Vento 1m/s da N
 
+<!--more-->
+
 {{< figurelink src="IMG_8483.jpg" >}}
 
 Passeggiata lungo il sentiero che da Campodolcino porta a Gualdera e poi discesa da Fraciscio.

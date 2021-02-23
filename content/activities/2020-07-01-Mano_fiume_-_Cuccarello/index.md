@@ -18,6 +18,8 @@ activitydata:
 
 Nubi Sparse, 25°C, Percepito 25°C, Umidità 83%, Vento 2m/s da S
 
+<!--more-->
+
 Uscita in compagnia dopo tanto tempo e sun po' di salita anche questo dopo molto tempo.
 È sempre bello faticare mentre si scambiano due parole. Detto questo la forma è sempre pessima, speriamo migliori presto.
 

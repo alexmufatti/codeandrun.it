@@ -15,6 +15,8 @@ places: []
 
 Pioggia, 17°C, Percepito 17°C, Umidità 93%, Vento 2m/s da NE - Klimat.app
 
+<!--more-->
+
 
 
 {{< figurelink src="20200907-activity-map.png" title="map" >}}

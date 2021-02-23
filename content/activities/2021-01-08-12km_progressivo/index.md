@@ -15,6 +15,8 @@ places: []
 
 Prevalentemente soleggiato, 3°C, Percepito 2°C, Umidità 45%, Vento 1m/s da NO - Klimat.app
 
+<!--more-->
+
 Un bel progressivo. Probabilmente un po' troppo tirato visto che la frequenza cardiaca è stata un po' più alta di quella degli ultimi allenamenti simili.
 
 

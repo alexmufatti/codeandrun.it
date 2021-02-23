@@ -16,6 +16,8 @@ places: ["bioggio"]
 
 Cielo sereno, 12°C, Percepito 8°C, Umidità 47%, Vento 2m/s da S - Klimat.app
 
+<!--more-->
+
 
 
 {{< figurelink src="20210217-activity-map.png" title="map" >}}

@@ -15,6 +15,8 @@ places: []
 
 Per lo più soleggiato, 8°C, Percepito 7°C, Umidità 56%, Vento 1m/s da SO - Klimat.app
 
+<!--more-->
+
 
 
 {{< figurelink src="20201121-activity-map.png" title="map" >}}

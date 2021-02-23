@@ -16,6 +16,8 @@ places: ["bioggio","manno","gravesano"]
 
 Prevalentemente soleggiato, 4°C, Percepito 3°C, Umidità 59%, Vento 1m/s da SSO - Klimat.app
 
+<!--more-->
+
 {{< figurelink src="IMG_3364.jpg" title="Night vision" >}}
 
 {{< figurelink src="20210116-activity-map.png" title="map" >}}

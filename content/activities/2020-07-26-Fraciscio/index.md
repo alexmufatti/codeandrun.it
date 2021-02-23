@@ -17,6 +17,8 @@ places:
 
 Nubi Sparse, 20°C, Percepito 20°C, Umidità 56%, Vento 2m/s da SSO
 
+<!--more-->
+
 {{< figurelink src="IMG_2363.jpg" >}}
 
 Passeggiata tranquilla passando dal ponte Romano e poi lungo il sentiero abbastanza pendente che porta a Fraciscio.

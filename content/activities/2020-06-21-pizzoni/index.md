@@ -20,6 +20,8 @@ images: ["IMG_2210.jpg", "20200621-activity-map.png",
 
 Sereno, 22°C, Percepito 22°C, Umidità 40%, Vento 2m/s da NNE
 
+<!--more-->
+
 Usciamo per fare una passeggiata in montagna e la destinazione era la cascata della Froda a Castelveccana.
 Purtroppo ci affidiamo a Google che tanto è preciso quando si tratta di strade asfaltate quanto e approssimativo per quanto riguarda i sentieri. Ci ritroviamo dunque in cima alla salita per Sant'Antonio dove non c' traccia del sentiero per la cascata; probabilmente l'ingresso era più in basso dove effettivamente avevamo visto un sacco di auto posteggiate lungo la strada.
 

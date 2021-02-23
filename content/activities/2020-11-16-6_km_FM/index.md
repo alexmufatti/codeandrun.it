@@ -15,6 +15,8 @@ places: []
 
 Sereno, 13°C, Percepito 13°C, Umidità 72%, Vento 1m/s da OSO - Klimat.app
 
+<!--more-->
+
 
 
 {{< figurelink src="20201116-activity-map.png" title="map" >}}

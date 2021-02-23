@@ -16,6 +16,8 @@ places: []
 
 Nuvoloso, 18°C, Percepito 18°C, Umidità 73%, Vento 1m/s da SSO - Klimat.app
 
+<!--more-->
+
 
 
 {{< figurelink src="20201001-activity-map.png" title="map" >}}

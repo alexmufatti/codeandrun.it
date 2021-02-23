@@ -15,6 +15,8 @@ places: []
 
 Poco Nuvoloso, 13°C, Percepito 13°C, Umidità 79%, Vento 0m/s da NE - Klimat.app
 
+<!--more-->
+
 
 
 {{< figurelink src="20201025-activity-map.png" title="map" >}}

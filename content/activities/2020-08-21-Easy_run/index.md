@@ -18,6 +18,8 @@ places:
 
 Poco Nuvoloso, 31°C, Percepito 34°C, Umidità 59%, Vento 2m/s da S - Klimat.app
 
+<!--more-->
+
 {{< figurelink src="IMG_2586.jpg" title="vedeggio" >}}
 
 Veramente troppo caldo per poter fare qualche chilometro id più nonostante ne mancassero solo 3 per arrivare al minimo sindacale di 30km settimanali. :-(

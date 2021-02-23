@@ -15,6 +15,8 @@ places: ["bioggio","manno","bedano"]
 
 Docce, 3°C, Percepito 0°C, Umidità 100%, Vento 1m/s da NE - Klimat.app
 
+<!--more-->
+
 {{< figurelink src="IMG_3275.jpg" >}}
 
 Bel lungo progressivo reso complicato dalla neve parzialmente sciolta nei tratti sterrati: molto difficile stare in piedi e ancora di più non inzupparsi le scarpe.

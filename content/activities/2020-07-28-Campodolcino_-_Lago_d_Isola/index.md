@@ -17,6 +17,8 @@ places:
 
 Sereno, 24°C, Percepito 25°C, Umidità 75%, Vento 2m/s da SO
 
+<!--more-->
+
 {{< figurelink src="IMG_2398.jpg" >}}
 Seconda escursione al lago di Isola. Questa volta voglio proseguire leggermente e scendendo dalla diga, faccio il giro completo del lago. 
 

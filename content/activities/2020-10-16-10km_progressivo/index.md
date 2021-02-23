@@ -16,6 +16,8 @@ places: []
 
 Nuvoloso, 13°C, Percepito 13°C, Umidità 70%, Vento 1m/s da NE - Klimat.app
 
+<!--more-->
+
 
 
 {{< figurelink src="20201016-activity-map.png" title="map" >}}

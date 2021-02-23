@@ -16,6 +16,8 @@ places: []
 
 Sereno, 18°C, Percepito 18°C, Umidità 52%, Vento 3m/s da N - Klimat.app
 
+<!--more-->
+
 
 
 {{< figurelink src="20201007-activity-map.png" title="map" >}}

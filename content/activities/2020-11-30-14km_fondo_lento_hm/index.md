@@ -15,6 +15,8 @@ places: []
 
 Parzialmente nuvoloso, 7°C, Percepito 6°C, Umidità 77%, Vento 2m/s da SSO - Klimat.app
 
+<!--more-->
+
 
 
 {{< figurelink src="20201130-activity-map.png" title="map" >}}

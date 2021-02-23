@@ -15,6 +15,8 @@ places: []
 
 Nuvoloso, 15°C, Percepito 15°C, Umidità 89%, Vento 1m/s da SO - Klimat.app
 
+<!--more-->
+
 
 
 {{< figurelink src="20200919-activity-map.png" title="map" >}}

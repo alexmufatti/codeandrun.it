@@ -18,6 +18,8 @@ places:
 
 Sereno, 27°C, Percepito 29°C, Umidità 60%, Vento 1m/s da SSO
 
+<!--more-->
+
 {{< figurelink src="IMG_2523.jpg" >}}
 
 Ultimo allenamento prima del'Engadiner Sommerlauf. La scelta dell'orario non è sicuramente delle migliori, si muore di caldo.

@@ -7,6 +7,8 @@ date: 2020-03-02 11:54:53
 ---
 Pioggia, 4°C, Percepito 4°C, Umidità 100%, Vento 1m/s da NNE
 
+<!--more-->
+
 | | |
 | :-: | :-: |
 | Pace: 5:1min/km | Elevation: 100mt |

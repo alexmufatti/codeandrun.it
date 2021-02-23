@@ -9,6 +9,8 @@ images: ["20200505-activity-map.png"]
 
 Nubi Sparse, 19°C, Percepito 19°C, Umidità 54%, Vento 1m/s da SSO
 
+<!--more-->
+
 | | |
 | :-: | :-: |
 | Pace: 6:24min/km | Elevation: 263mt |

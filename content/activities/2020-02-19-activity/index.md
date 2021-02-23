@@ -7,6 +7,8 @@ date: 2020-02-19 12:24:05
 ---
 Sereno, 11°C, Percepito 11°C, Umidità 33%, Vento 2m/s da SO
 
+<!--more-->
+
 | | |
 | :-: | :-: |
 | Pace: 4:43min/km | Elevation: 128mt |

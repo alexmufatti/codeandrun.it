@@ -9,6 +9,8 @@ images: ["20200512-activity-map.png"]
 
 Poco Nuvoloso, 20°C, Percepito 20°C, Umidità 58%, Vento 2m/s da SSO
 
+<!--more-->
+
 | | |
 | :-: | :-: |
 | Pace: 4:43min/km | Elevation: 110mt |

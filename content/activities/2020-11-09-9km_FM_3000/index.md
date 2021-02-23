@@ -16,6 +16,8 @@ places: []
 
 Sereno, 15°C, Percepito 15°C, Umidità 61%, Vento 1m/s da SSO - Klimat.app
 
+<!--more-->
+
 
 
 {{< figurelink src="20201109-activity-map.png" title="map" >}}

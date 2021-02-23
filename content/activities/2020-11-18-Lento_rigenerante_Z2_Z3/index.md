@@ -15,6 +15,8 @@ places: []
 
 Per lo più soleggiato, 13°C, Percepito 13°C, Umidità 62%, Vento 1m/s da SSO - Klimat.app
 
+<!--more-->
+
 
 
 {{< figurelink src="20201118-activity-map.png" title="map" >}}

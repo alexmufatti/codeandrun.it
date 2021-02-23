@@ -16,6 +16,8 @@ places: ["bioggio","manno","bedano"]
 
 Cielo coperto, 12°C, Percepito 10°C, Umidità 54%, Vento 1m/s da N - Klimat.app
 
+<!--more-->
+
 {{< figurelink src="IMG_3519.jpg" title="Vedeggio" >}}
 
 Oggi lento, o molto lento come da istruzioni. Faccio sempre un po' fatica a tenere il ritmo basso, se mi distraggo accelero finendo per stancarmi più del dovuto.

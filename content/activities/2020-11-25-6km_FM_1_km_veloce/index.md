@@ -15,6 +15,8 @@ places: []
 
 Per lo più soleggiato, 10°C, Percepito 10°C, Umidità 56%, Vento 1m/s da OSO - Klimat.app
 
+<!--more-->
+
 
 
 {{< figurelink src="20201125-activity-map.png" title="map" >}}

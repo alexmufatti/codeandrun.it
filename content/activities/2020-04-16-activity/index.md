@@ -9,6 +9,8 @@ images: ["IMG_1915.jpg"]
 
 Nubi Sparse, 19°C, Percepito 19°C, Umidità 36%, Vento 3m/s da SSO.
 
+<!--more-->
+
 Secondo giorno di esplorazione dei sentieri attorno al percorso vita di Bosco Luganese.
 Questo sentiero inizia sulla destra poche centinaia di metri dopo la partenza del percorso vita ed è ben segnalato. 
 La strada scende in maniera abbastanza impegnativa verso Manno con alcune parti dove è difficile correre anche in discesa. In salita è sicuramente ostico e probabilmente corribile solo in minima parte.

@@ -19,6 +19,8 @@ places:
 
 Pioggia, 18°C, Percepito 18°C, Umidità 90%, Vento 2m/s da NNE
 
+<!--more-->
+
 Primo allenamento dopo la _pausa_ della vacanza in montagna. 
 Come sempre in questo periodo molta più fatica del dovuto e difficoltà a tenere il passo. Tendo sempre ad accelerare troppo all'inizio e poi faccio fatica a mantenere il ritmo per tutto l'allenamento: doveva essere un fondo lento ma si è trasformato quasi in un medio.
 

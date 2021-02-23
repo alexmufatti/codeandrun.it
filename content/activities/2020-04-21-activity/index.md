@@ -9,6 +9,8 @@ images: ["IMG_1926.jpg"]
 
 Nubi Sparse, 12°C, Percepito 12°C, Umidità 78%, Vento 1m/s da OSO
 
+<!--more-->
+
 Corsa con poca voglia e troppa fatica rispetto al percorso fatto. Percorso il più breve possibile per dire di essere uscito...
 
 {{< figurelink src="IMG_1926.jpg" >}}

@@ -16,6 +16,8 @@ places: []
 
 Pioggia, 12°C, Percepito 12°C, Umidità 57%, Vento 3m/s da NNE - Klimat.app
 
+<!--more-->
+
 
 
 {{< figurelink src="20200925-activity-map.png" title="map" >}}

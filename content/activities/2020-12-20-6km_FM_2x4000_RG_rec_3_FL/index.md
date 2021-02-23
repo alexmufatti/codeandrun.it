@@ -15,6 +15,8 @@ places: []
 
 Nuvoloso, 5°C, Percepito 5°C, Umidità 94%, Vento 1m/s da O - Klimat.app
 
+<!--more-->
+
 {{< figurelink src="IMG_3150.jpg" >}}
 
 {{< figurelink src="20201220-activity-map.png" title="map" >}}

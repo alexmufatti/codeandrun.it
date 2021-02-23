@@ -11,6 +11,8 @@ Solito giro collinare fatto con un po' più di brio rispetto alle ultime uscite.
 
 Nuvoloso, 11°C, Percepito 11°C, Umidità 74%, Vento 2m/s da S
 
+<!--more-->
+
 | | |
 | :-: | :-: |
 | Pace: 4:56min/km | Elevation: 530mt |

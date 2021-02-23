@@ -16,6 +16,8 @@ places: ["bioggio","lamone","manno"]
 
 Nuvoloso, 6°C, Percepito 4°C, Umidità 59%, Vento 2m/s da SO - Klimat.app
 
+<!--more-->
+
 
 
 {{< figurelink src="20210115-activity-map.png" title="map" >}}

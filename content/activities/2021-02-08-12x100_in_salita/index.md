@@ -16,6 +16,8 @@ places: ["bioggio"]
 
 Per lo più soleggiato, 9°C, Percepito 9°C, Umidità 45%, Vento 0m/s da ESE - Klimat.app
 
+<!--more-->
+
 
 
 {{< figurelink src="20210208-activity-map.png" title="map" >}}

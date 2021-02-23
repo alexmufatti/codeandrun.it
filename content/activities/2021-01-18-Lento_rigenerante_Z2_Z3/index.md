@@ -16,6 +16,8 @@ places: ["bioggio","agno","magliaso"]
 
 Prevalentemente soleggiato, 6°C, Percepito 6°C, Umidità 56%, Vento 2m/s da ONO - Klimat.app
 
+<!--more-->
+
 
 
 {{< figurelink src="20210118-activity-map.png" title="map" >}}

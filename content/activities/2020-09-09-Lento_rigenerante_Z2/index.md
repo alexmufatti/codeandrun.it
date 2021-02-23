@@ -15,6 +15,8 @@ places: []
 
 Sereno, 24°C, Percepito 24°C, Umidità 64%, Vento 1m/s da SSO - Klimat.app
 
+<!--more-->
+
 
 
 {{< figurelink src="20200909-activity-map.png" title="map" >}}

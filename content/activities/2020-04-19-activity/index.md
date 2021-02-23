@@ -9,6 +9,8 @@ images: ["IMG_1925.jpg"]
 
 Poco Nuvoloso, 16°C, Percepito 16°C, Umidità 61%, Vento 2m/s da S
 
+<!--more-->
+
 Come giro lungo della domenica questa volta ho optato per un mix di sentieri tutti già fatti in precedenza ma mai in questa composizione.
 Salita da Agno a Vernate per lungo la strada asfaltata prendendo però un paio di _scorciatoie_ che sicuramente accorciano il percorso ma, vista la pendenza, non è detto che lo velocizzino.
 

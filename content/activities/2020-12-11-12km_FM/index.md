@@ -15,6 +15,8 @@ places: []
 
 Prevalentemente nuvoloso, 3°C, Percepito 3°C, Umidità 81%, Vento 0m/s da ONO - Klimat.app
 
+<!--more-->
+
 
 
 {{< figurelink src="20201211-activity-map.png" title="map" >}}

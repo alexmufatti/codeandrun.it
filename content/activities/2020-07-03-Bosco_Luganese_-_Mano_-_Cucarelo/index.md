@@ -17,6 +17,8 @@ places:
 ---
 Poco Nuvoloso, 26°C, Percepito 26°C, Umidità 57%, Vento 2m/s da S
 
+<!--more-->
+
 Altra uscita in compagnia e altra salita, stavolta meno faticosa.
 
 Per curiosità ho voluto confrontare questa corsa con una fatta un paio di mesi fa sullo stesso percorso e i risultati sono abbastanza impietosi

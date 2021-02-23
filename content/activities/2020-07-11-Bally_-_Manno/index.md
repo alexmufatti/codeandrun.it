@@ -19,6 +19,8 @@ places:
 
 Sereno, 28°C, Percepito 28°C, Umidità 51%, Vento 2m/s da SO
 
+<!--more-->
+
 {{< figurelink src="IMG_2292.jpg" >}}
 
 Corsetta serale dopo il giro in bici di ieri. Anche se sulla bici ho fatto solo pochi chilomentri, si sono sentiti parecchio nelle gambe e aggi proprio non giravano. Un sacco di pause per rifiatare anche per il caldo.

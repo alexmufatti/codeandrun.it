@@ -7,6 +7,8 @@ date: 2020-01-31 12:28:27
 ---
 Sereno, 11°C, Percepito 11°C, Umidità 54%, Vento 1m/s da S
 
+<!--more-->
+
 | | |
 | :-: | :-: |
 | Pace: 4:43min/km | Elevation: 141mt |

@@ -5,6 +5,8 @@ date: 2020-02-17 12:20:30
 ---
 Nuvoloso, 9°C, Percepito 9°C, Umidità 67%, Vento 1m/s da E
 
+<!--more-->
+
 | | |
 | :-: | :-: |
 | Pace: 4:56min/km | Elevation: 68mt |

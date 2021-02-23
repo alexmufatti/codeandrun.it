@@ -18,6 +18,8 @@ places: []
 
 Nubi Sparse, 19°C, Percepito 19°C, Umidità 59%, Vento 2m/s da SSO - Klimat.app
 
+<!--more-->
+
 
 
 {{< figurelink src="20201010-activity-map.png" title="map" >}}

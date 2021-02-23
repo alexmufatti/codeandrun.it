@@ -7,6 +7,8 @@ date: 2020-02-05 12:20:17
 ---
 Sereno, 10°C, Percepito 9°C, Umidità 20%, Vento 7m/s da NNO
 
+<!--more-->
+
 | | |
 | :-: | :-: |
 | Pace: 4:41min/km | Elevation: 94mt |

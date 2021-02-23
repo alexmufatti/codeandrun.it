@@ -9,6 +9,8 @@ images: ["20200319-activity-image.jpg"]
 
 Sereno, 17°C, Percepito 17°C, Umidità 44%, Vento 2m/s da SSO
 
+<!--more-->
+
 | | |
 | :-: | :-: |
 | Pace: 5:29min/km | Elevation: 382mt |

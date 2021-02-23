@@ -18,6 +18,8 @@ places:
 
 Poco Nuvoloso, 26°C, Percepito 26°C, Umidità 55%, Vento 2m/s da SSO - Klimat.app
 
+<!--more-->
+
 {{< figurelink src="IMG_2581.jpg" >}}
 
 Nulla di particolare in questa corsa di tranquilla. Non avendo nessun obiettivo a breve termine la voglia di spingere manca. Fortunatamente anche in salita il dolore al Piriforme non si è fatto vivo.

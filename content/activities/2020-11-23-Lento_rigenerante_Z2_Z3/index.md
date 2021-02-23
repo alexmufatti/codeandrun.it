@@ -16,6 +16,8 @@ places: []
 
 Nubi Sparse, 8°C, Percepito 8°C, Umidità 64%, Vento 1m/s da SE - Klimat.app
 
+<!--more-->
+
 
 
 {{< figurelink src="20201123-activity-map.png" title="map" >}}

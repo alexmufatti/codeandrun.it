@@ -15,6 +15,8 @@ places: []
 
 Sereno, 14°C, Percepito 14°C, Umidità 74%, Vento 1m/s da NE - Klimat.app
 
+<!--more-->
+
 
 
 {{< figurelink src="20201107-activity-map.png" title="map" >}}

@@ -18,6 +18,8 @@ places:
 
 Possibilità Di Pioggia Leggera, 24°C, Percepito 24°C, Umidità 61%, Vento 1m/s da SSO
 
+<!--more-->
+
 Dopo tanto tanto tempo faccio una sessione di lavoro vero in preparazione per l'Engadiner Sommerlauf.
 
 Ero estremamente preoccupato per l'esito dell'allenamento per via del poco sonno e della stanchezza oltre al fatto che non facevo ripetutte da mesi.

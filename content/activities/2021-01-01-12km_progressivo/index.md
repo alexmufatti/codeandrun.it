@@ -15,6 +15,8 @@ places: ["bioggio","bedano","manno","vedeggio"]
 
 Neve leggera, 0°C, Percepito 0°C, Umidità 92%, Vento 0m/s da ONO - Klimat.app
 
+<!--more-->
+
 {{< figurelink src="IMG_3242.jpg" >}}
 
 Una bella uscita nonostante la neve leggera. Fortunatamente il fondo era meno fangoso del previsto e, a parte i tratti asfaltati dove si scivolava un po', la tenuta era buona.

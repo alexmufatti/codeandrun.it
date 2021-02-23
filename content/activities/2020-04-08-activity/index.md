@@ -9,6 +9,8 @@ images: ["20200408-activity-image.jpg"]
 
 Sereno, 20°C, Percepito 20°C, Umidità 30%, Vento 3m/s da SSO
 
+<!--more-->
+
 Corsetta in collina, sempre sul solito percorso su cui sono abbastanza sicuro di trovare poca gente. Ritorno con variazione in salita a pendenze impegnative giusto per spaccarsi le gambe! :)
 
 | | |

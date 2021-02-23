@@ -14,6 +14,8 @@ places: []
 ---
 
 Nuvoloso, 13°C, Percepito 13°C, Umidità 69%, Vento 1m/s da S - Klimat.app
+
+<!--more-->
 #paceMap
 
 

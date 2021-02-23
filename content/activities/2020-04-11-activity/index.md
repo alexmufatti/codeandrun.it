@@ -9,6 +9,8 @@ images: ["IMG_1892.jpg"]
 
 Sereno, 24°C, Percepito 24°C, Umidità 24%, Vento 3m/s da SSO
 
+<!--more-->
+
 | | |
 | :-: | :-: |
 | Pace: 5:29min/km | Elevation: 533mt |

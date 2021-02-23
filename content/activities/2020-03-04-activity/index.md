@@ -9,6 +9,8 @@ images: ["20200304-activity-image.jpg"]
 
 Sereno, 12°C, Percepito 12°C, Umidità 28%, Vento 3m/s da ESE
 
+<!--more-->
+
 | | |
 | :-: | :-: |
 | Pace: 4:45min/km | Elevation: 104mt |

@@ -9,6 +9,8 @@ images: ["IMG_1816.jpg"]
 
 Nuvoloso, 7°C, Percepito 7°C, Umidità 92%, Vento 1m/s da SSO
 
+<!--more-->
+
 | | |
 | :-: | :-: |
 | Pace: 5:11min/km | Elevation: 532mt |

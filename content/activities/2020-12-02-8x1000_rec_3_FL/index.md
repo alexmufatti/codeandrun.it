@@ -15,6 +15,8 @@ places: []
 
 Pioggia leggera, 5°C, Percepito 5°C, Umidità 86%, Vento 1m/s da S - Klimat.app
 
+<!--more-->
+
 
 
 {{< figurelink src="20201202-activity-map.png" title="map" >}}

@@ -19,6 +19,8 @@ places:
 
 Sereno, 29°C, Percepito 29°C, Umidità 42%, Vento 3m/s da SSO.
 
+<!--more-->
+
 
 {{< figurelink src="IMG_2516.jpg" >}}
 

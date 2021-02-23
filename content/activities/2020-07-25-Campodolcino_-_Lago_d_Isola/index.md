@@ -17,6 +17,8 @@ places:
 
 Sereno, 19°C, Percepito 19°C, Umidità 51%, Vento 1m/s da N
 
+<!--more-->
+
 {{< figurelink src="IMG_2341.jpg" >}}
 
 Avendo capito che non ci sono percorsi in piano nelle vicinanze decido di saltare la sessione di allenamento prevista e di andare a esplorare un po' i dintorni. Questo sentiero che da Campodolcino porta al lago di Isola è abbastanza impegnativo, con un fondo di pietre non particolarmente piatto. 

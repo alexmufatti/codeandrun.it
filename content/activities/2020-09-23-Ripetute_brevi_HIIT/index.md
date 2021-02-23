@@ -16,6 +16,8 @@ places: []
 
 Possibilità Di Pioggia Leggera, 20°C, Percepito 21°C, Umidità 77%, Vento 2m/s da S - Klimat.app
 
+<!--more-->
+
 
 
 {{< figurelink src="20200923-activity-map.png" title="map" >}}

@@ -17,6 +17,8 @@ draft: true
 
 Prevalentemente soleggiato, 3°C, Percepito 3°C, Umidità 64%, Vento 1m/s da SO - Klimat.app
 
+<!--more-->
+
 
 
 {{< figurelink src="20201227-activity-map.png" title="map" >}}

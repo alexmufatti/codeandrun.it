@@ -7,6 +7,8 @@ date: 2020-02-14 12:26:48
 ---
 Sereno, 13°C, Percepito 13°C, Umidità 46%, Vento 3m/s da NO
 
+<!--more-->
+
 | | |
 | :-: | :-: |
 | Pace: 4:39min/km | Elevation: 50mt |

@@ -7,6 +7,8 @@ date: 2020-02-09 09:34:32
 ---
 Sereno, 3°C, Percepito 3°C, Umidità 82%, Vento 1m/s da NNE
 
+<!--more-->
+
 | | |
 | :-: | :-: |
 | Pace: 4:43min/km | Elevation: 205mt |

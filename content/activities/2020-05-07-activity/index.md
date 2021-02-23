@@ -9,6 +9,8 @@ images: ["20200507-activity-map.png"]
 
 Sereno, 22°C, Percepito 22°C, Umidità 45%, Vento 3m/s da SSO
 
+<!--more-->
+
 | | |
 | :-: | :-: |
 | Pace: 5:35min/km | Elevation: 250mt |

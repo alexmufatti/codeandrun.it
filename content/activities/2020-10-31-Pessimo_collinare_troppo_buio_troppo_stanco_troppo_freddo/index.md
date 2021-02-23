@@ -15,6 +15,8 @@ places: []
 
 Nuvoloso, 15°C, Percepito 15°C, Umidità 79%, Vento 0m/s da SSE - Klimat.app
 
+<!--more-->
+
 
 
 {{< figurelink src="20201031-activity-map.png" title="map" >}}

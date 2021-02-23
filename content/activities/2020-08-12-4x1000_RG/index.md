@@ -18,6 +18,8 @@ places:
 
 Poco Nuvoloso, 29°C, Percepito 30°C, Umidità 59%, Vento 2m/s da S
 
+<!--more-->
+
 {{< figurelink src="IMG_2556.jpg" >}}
 
 Ultime ripetute prima della gara di domenica ad un passo non troppo spinto. Le sensazioni non sono delle migliori, forse per il gran caldo e l'afa opprimente; a St. Mortiz dovremmo trovare il fresco e speriamo anche un po' di facilità nella corsa. 

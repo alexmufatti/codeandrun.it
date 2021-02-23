@@ -15,6 +15,8 @@ places: ["bioggio","bedano","manno","vedeggio"]
 
 Nuvoloso, 4°C, Percepito 4°C, Umidità 80%, Vento 1m/s da NE - Klimat.app
 
+<!--more-->
+
 {{< figurelink src="IMG_3218.jpg" >}}
 
 Uscita tranquilla nonostante le poche ore di sonno. La percezione è stata di poca fatica ma i battiti dicono il contrario: almeno una zona superiore a quello che sarebbe dovuto essere per andatura e percorso.

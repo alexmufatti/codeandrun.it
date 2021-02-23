@@ -21,6 +21,8 @@ places:
 
 Sereno, 28°C, Percepito 28°C, Umidità 48%, Vento 2m/s da SSO
 
+<!--more-->
+
 Dopo le ripetute di mercoledì, oggi si passa ad un altro elemento fondamentale per la preparazione dell'Engadiner Sommerlauf: il lungo.
 
 Mi aspettavo di fare un po' di fatica visto che è molto tempo che non corro per così tanti chilometri ma sinceramente speravo meglio; gli ultimi 3 chilometri, quelli che avrei dovuto correre a ritmo gara, sono stati davvero faticosi. Oltretutto il GPS ha fatto i capricci proprio in questo ultimo tratto e non sono certo che le velocità che ha rilevato siano quelle corrette.

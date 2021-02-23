@@ -16,6 +16,8 @@ places: []
 
 Nubi Sparse, 15°C, Percepito 15°C, Umidità 74%, Vento 1m/s da E - Klimat.app
 
+<!--more-->
+
 
 
 {{< figurelink src="20201005-activity-map.png" title="map" >}}

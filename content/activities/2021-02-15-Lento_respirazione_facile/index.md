@@ -16,6 +16,8 @@ places: ["bioggio","manno","bedano"]
 
 Cielo sereno, 6°C, Percepito 1°C, Umidità 28%, Vento 2m/s da S - Klimat.app
 
+<!--more-->
+
 {{< figurelink src="IMG_3500.jpg" title="Vedeggio" >}}
 
 {{< figurelink src="20210215-activity-map.png" title="map" >}}

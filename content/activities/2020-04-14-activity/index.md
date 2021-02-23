@@ -9,6 +9,8 @@ images: ["IMG_1909.jpg"]
 
 Sereno, 19°C, Percepito 19°C, Umidità 12%, Vento 4m/s da NNE
 
+<!--more-->
+
 Prima esplorazione dei sentieri che dal percorso vita di Bosco Luganese portano a Manno.
 Questo sentiero è indicato all'inizio del percorso vita ma poi non viene più segnalato; si deve quindi andare a sensazione per trovare il punto di inizio che è qualche centiaio di metri dopo l'inizio del percorso rima che questo svolti verso sinistra. La discesa è abbastanza impegnativa e con lunghi tratti di gradinate ma comunque piacevole.
 Percorrere il sentiero in salita non deve essere particolarmente agevole per via della pendenza.

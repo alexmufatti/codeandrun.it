@@ -16,6 +16,8 @@ places: ["bioggio", "agno"]
 
 Nuvoloso, 5°C, Percepito 5°C, Umidità 96%, Vento 1m/s da O - Klimat.app
 
+<!--more-->
+
 
 
 {{< figurelink src="20210203-activity-map.png" title="map" >}}

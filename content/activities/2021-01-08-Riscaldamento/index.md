@@ -17,6 +17,8 @@ draft: true
 
 Prevalentemente soleggiato, 4°C, Percepito 2°C, Umidità 54%, Vento 2m/s da OSO - Klimat.app
 
+<!--more-->
+
 
 
 {{< figurelink src="20210108-activity-map.png" title="map" >}}

@@ -9,6 +9,8 @@ images: ["IMG_2010.jpg"]
 
 Possibilità Di Pioggia Leggera, 18°C, Percepito 18°C, Umidità 75%, Vento 1m/s da S
 
+<!--more-->
+
 | | |
 | :-: | :-: |
 | Pace: 4:41min/km | Elevation: 134mt |

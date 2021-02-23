@@ -15,6 +15,8 @@ places: []
 
 Prevalentemente nuvoloso, 5°C, Percepito 5°C, Umidità 75%, Vento 2m/s da OSO - Klimat.app
 
+<!--more-->
+
 
 
 {{< figurelink src="20201209-activity-map.png" title="map" >}}

@@ -16,6 +16,8 @@ places: []
 
 Nubi Sparse, 13°C, Percepito 13°C, Umidità 62%, Vento 1m/s da SSE - Klimat.app
 
+<!--more-->
+
 
 
 {{< figurelink src="20201014-activity-map.png" title="map" >}}

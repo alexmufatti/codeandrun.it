@@ -15,6 +15,8 @@ places: []
 
 Prevalentemente nuvoloso, 7°C, Percepito 7°C, Umidità 84%, Vento 1m/s da NNO - Klimat.app
 
+<!--more-->
+
 
 
 {{< figurelink src="20201216-activity-map.png" title="map" >}}

@@ -15,6 +15,8 @@ places: []
 
 Prevalentemente soleggiato, 3°C, Percepito 3°C, Umidità 65%, Vento 1m/s da OSO - Klimat.app
 
+<!--more-->
+
 Oggi poche gambe e niente testa, il risultato vien da se...
 
 {{< figurelink src="20201227-activity-map.png" title="map" >}}

@@ -16,6 +16,8 @@ places: ["bioggio","muzzano","biogno","breganzona"]
 
 Per lo più soleggiato, 10°C, Percepito 10°C, Umidità 71%, Vento 1m/s da SSO - Klimat.app
 
+<!--more-->
+
 
 
 {{< figurelink src="20210204-activity-map.png" title="map" >}}

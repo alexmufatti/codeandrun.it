@@ -21,6 +21,8 @@ places:
 
 Nubi Sparse, 13°C, Percepito 13°C, Umidità 94%, Vento 1m/s da SSO
 
+<!--more-->
+
     Tempo ufficiale: 1:41.40,5
     Posizione: 90/237
 

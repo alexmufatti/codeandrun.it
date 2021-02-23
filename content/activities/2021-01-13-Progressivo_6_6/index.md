@@ -16,6 +16,8 @@ places: ["bioggio","manno","bedano"]
 
 Prevalentemente soleggiato, 9°C, Percepito 9°C, Umidità 30%, Vento 2m/s da ESE - Klimat.app
 
+<!--more-->
+
 {{< figurelink src="IMG_3347.jpg" title="Vedeggio" >}}
 
 {{< figurelink src="20210113-activity-map.png" title="map" >}}

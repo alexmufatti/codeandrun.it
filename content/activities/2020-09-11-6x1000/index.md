@@ -15,6 +15,8 @@ places: []
 
 Nubi Sparse, 26°C, Percepito 27°C, Umidità 61%, Vento 2m/s da S - Klimat.app
 
+<!--more-->
+
 
 
 {{< figurelink src="20200911-activity-map.png" title="map" >}}

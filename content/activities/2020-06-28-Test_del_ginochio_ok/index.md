@@ -17,6 +17,8 @@ images: ["IMG_2249.jpg", "IMG_2248.jpg"]
 
 Poco Nuvoloso, 22°C, Percepito 22°C, Umidità 70%, Vento 1m/s da NE
 
+<!--more-->
+
 Dopo l'ultima uscita ho patito un dolore nel retro del ginocchio destro. 
 Lo scopo di questa sgambata era quindi vedere se il dolore persisteva o era dovuto unicamente ad un affaticamente di qualche genere. 
 

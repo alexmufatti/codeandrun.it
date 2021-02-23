@@ -20,6 +20,8 @@ places:
 
 Nubi Sparse, 21°C, Percepito 21°C, Umidità 59%, Vento 3m/s da SSO
 
+<!--more-->
+
 Corsa in compagnia sulla salita di Vernate. Questo percorso mi piace perché la salita non è eccessivamente pendente e si ha un po' di riscaldamento prima dell'inizio della parte impegnativa.
 
 Rispetto a qualche mese fa si vede ancora la differenza nei tempi, l'ultima volta ero stato 20 s/km più rapido sulla salita.

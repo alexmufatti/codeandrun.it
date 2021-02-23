@@ -9,6 +9,8 @@ images: ["IMG_1946.jpg"]
 
 Nubi Sparse, 20°C, Percepito 20°C, Umidità 48%, Vento 3m/s da SSO
 
+<!--more-->
+
 Oggi sono uscito di casa senza alcuna idea del percorso che sarei andato a fare; ne è uscito un patch-work di setieri conosciuti ma mai percorsi in questo ordine/verso.
 
 Salita da Bioggio a Gaggio tagliando per i 2 sentieri, mai fatti prima ma che forse diventeranno un _must_, che evitano un paio di tornanti aumentando di un po' la fatica. Da Gaggio salita per il sentiero con l'idea di andare a Cimo; al bivio con il sentiero che arriva da Cademario però cambio idea e salgo verso quest'ultimo. A Cademario incontro con un paio di cerbiatti e discesa sulla strada fino a Bosco Luganese dove faccio un altro fuori programma lungo il percorso vita per poi scendere dall'aula nel bosco fino a Bioggio.

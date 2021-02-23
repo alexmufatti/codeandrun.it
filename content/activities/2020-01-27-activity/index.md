@@ -7,6 +7,8 @@ date: 2020-01-27 12:20:12
 ---
 Poco Nuvoloso, 9°C, Percepito 9°C, Umidità 77%, Vento 1m/s da SE
 
+<!--more-->
+
 | | |
 | :-: | :-: |
 | Pace: 4:47min/km | Elevation: 73mt |

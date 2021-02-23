@@ -9,6 +9,8 @@ images: ["20200329-activity-map.png"]
 
 Poco Nuvoloso, 11°C, Percepito 11°C, Umidità 64%, Vento 1m/s da NNE
 
+<!--more-->
+
 | | |
 | :-: | :-: |
 | Pace: 5:12min/km | Elevation: 523mt |

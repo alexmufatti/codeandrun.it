@@ -15,6 +15,8 @@ places: []
 
 Nuvoloso, 14°C, Percepito 14°C, Umidità 60%, Vento 2m/s da SSO - Klimat.app
 
+<!--more-->
+
 
 
 {{< figurelink src="20201027-activity-map.png" title="map" >}}

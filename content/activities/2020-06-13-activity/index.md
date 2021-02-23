@@ -9,6 +9,8 @@ images: ["IMG_4587.jpg"]
 
 Sereno, 19°C, Percepito 19°C, Umidità 59%, Vento 2m/s da ONO
 
+<!--more-->
+
 | | |
 | :-: | :-: |
 | Pace: 4:42min/km | Elevation: 28mt |

@@ -16,6 +16,8 @@ places: []
 
 Nuvoloso, 17°C, Percepito 17°C, Umidità 64%, Vento 1m/s da SSE - Klimat.app
 
+<!--more-->
+
 
 
 {{< figurelink src="20201009-activity-map.png" title="map" >}}

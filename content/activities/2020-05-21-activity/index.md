@@ -9,6 +9,8 @@ images: ["IMG_2039.jpg"]
 
 Sereno, 26°C, Percepito 26°C, Umidità 46%, Vento 2m/s da S
 
+<!--more-->
+
 | | |
 | :-: | :-: |
 | Pace: 5:50min/km | Elevation: 261mt |

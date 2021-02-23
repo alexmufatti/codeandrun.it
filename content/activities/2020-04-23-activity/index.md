@@ -9,6 +9,8 @@ images: ["IMG_1940.jpg"]
 
 Sereno, 20°C, Percepito 20°C, Umidità 44%, Vento 3m/s da SSO
 
+<!--more-->
+
 Per la prima volta dopo un po' di tempo sono arrivato fino a Cademario dai Vigneti. Un giro alternativo salendo da Gaggio e tagliando per la _via di fuga_.
 
 Appena dopo Renera si possono fare anche degli incontri interessanti :-)

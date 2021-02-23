@@ -16,6 +16,8 @@ places: []
 
 Sereno, 15°C, Percepito 15°C, Umidità 31%, Vento 5m/s da NNE - Klimat.app
 
+<!--more-->
+
 
 
 {{< figurelink src="20201012-activity-map.png" title="map" >}}

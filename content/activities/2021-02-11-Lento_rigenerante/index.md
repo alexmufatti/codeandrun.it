@@ -16,6 +16,8 @@ places: ["bioggio","agno","magliaso"]
 
 Per lo più soleggiato, 11°C, Percepito 11°C, Umidità 27%, Vento 5m/s da NNE - Klimat.app
 
+<!--more-->
+
 {{< figurelink src="IMG_3483.jpg" >}}
 
 {{< figurelink src="20210211-activity-map.png" title="map" >}}

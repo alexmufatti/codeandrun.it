@@ -15,6 +15,8 @@ places: []
 
 Docce isolate, 2°C, Percepito 1°C, Umidità 100%, Vento 1m/s da ENE - Klimat.app
 
+<!--more-->
+
 {{< figurelink src="IMG_3106.jpg" >}}
 
 {{< figurelink src="IMG_3108.jpg" >}}

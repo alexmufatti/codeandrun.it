@@ -16,6 +16,8 @@ places:
 
 Possibilità Di Pioggia Leggera, 20°C, Percepito 21°C, Umidità 83%, Vento 1m/s da N
 
+<!--more-->
+
 Seconda uscita, sempre sullo stesso percorso che ho scoperto essere l'unico più o meno in piano. Anche in questo caso grande fatica a tenere il ritmo nelle frazioni lunghe.
 
 

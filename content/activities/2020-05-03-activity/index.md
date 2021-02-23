@@ -9,6 +9,8 @@ images: ["IMG_1963.jpg"]
 
 Sereno, 18°C, Percepito 18°C, Umidità 28%, Vento 3m/s da NNE
 
+<!--more-->
+
 | | |
 | :-: | :-: |
 | Pace: 5:54min/km | Elevation: 646mt |

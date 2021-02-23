@@ -7,6 +7,8 @@ date: 2020-01-29 12:38:35
 ---
 Sereno, 10°C, Percepito 10°C, Umidità 52%, Vento 2m/s da NNE
 
+<!--more-->
+
 | | |
 | :-: | :-: |
 | Pace: 4:31min/km | Elevation: 78mt |

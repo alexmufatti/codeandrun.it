@@ -19,6 +19,8 @@ places:
 
 Nuvoloso, 21°C, Percepito 21°C, Umidità 87%, Vento 2m/s da SSO - Klimat.app
 
+<!--more-->
+
 Breve corsa per recuperare un po' dopo la gara di ieri. Fortunatamente il _piriforme_ non mi dà molto fastidio, forse l'indolenzimento passerà in fretta.
 
 {{< figure src="20200817-activity-map.png" link="20200817-activity-map.png" title="map" >}}

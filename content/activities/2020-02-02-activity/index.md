@@ -7,6 +7,8 @@ date: 2020-02-02 09:32:45
 ---
 Nubi Sparse, 7°C, Percepito 7°C, Umidità 76%, Vento 1m/s da NNE
 
+<!--more-->
+
 | | |
 | :-: | :-: |
 | Pace: 4:42min/km | Elevation: 62mt |

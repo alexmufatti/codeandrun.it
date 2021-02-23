@@ -7,6 +7,8 @@ date: 2020-02-03 12:36:12
 ---
 Sereno, 15°C, Percepito 15°C, Umidità 64%, Vento 2m/s da ONO
 
+<!--more-->
+
 | | |
 | :-: | :-: |
 | Pace: 5:8min/km | Elevation: 55mt |

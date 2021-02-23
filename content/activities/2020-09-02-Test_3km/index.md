@@ -18,6 +18,8 @@ places:
 
 Nubi Sparse, 17°C, Percepito 17°C, Umidità 85%, Vento 1m/s da NO - Klimat.app
 
+<!--more-->
+
 Prima volta che provo a fare un vero e proprio test che non sia una gara.
 Non sapendo bene quanto avrei potuto reggere decido di cercare di tenere i 3:45 min/km e vedere come va.
 

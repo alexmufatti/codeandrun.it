@@ -16,6 +16,8 @@ places: ["bioggio","agno"]
 
 Pioggia leggera, 3°C, Percepito 2°C, Umidità 94%, Vento 2m/s da NO - Klimat.app
 
+<!--more-->
+
 
 
 {{< figurelink src="20210122-activity-map.png" title="map" >}}

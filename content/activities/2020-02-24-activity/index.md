@@ -8,6 +8,8 @@ date: 2020-02-24 12:17:36
 
 Nuvoloso, 19°C, Percepito 19°C, Umidità 52%, Vento 1m/s da NNO
 
+<!--more-->
+
 | | |
 | :-: | :-: |
 | Pace: 4:45min/km | Elevation: 80mt |

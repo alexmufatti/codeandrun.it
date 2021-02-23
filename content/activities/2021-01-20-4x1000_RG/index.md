@@ -16,6 +16,8 @@ places: ["bioggio","agno","magliaso"]
 
 Prevalentemente nuvoloso, 4°C, Percepito 4°C, Umidità 60%, Vento 1m/s da ONO - Klimat.app
 
+<!--more-->
+
 {{< figurelink src="IMG_3393.jpg" >}}
 
 {{< figurelink src="IMG_3396.jpg" title="panoramica" >}}

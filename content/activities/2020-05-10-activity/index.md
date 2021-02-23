@@ -9,6 +9,8 @@ images: ["IMG_1994.jpg"]
 
 Nuvoloso, 16°C, Percepito 16°C, Umidità 79%, Vento 1m/s da ENE
 
+<!--more-->
+
 | | |
 | :-: | :-: |
 | Pace: 5:57min/km | Elevation: 615mt |

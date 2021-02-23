@@ -15,6 +15,8 @@ places: []
 
 Parzialmente nuvoloso, 7°C, Percepito 7°C, Umidità 74%, Vento 1m/s da SSO - Klimat.app
 
+<!--more-->
+
 
 
 {{< figurelink src="20201214-activity-map.png" title="map" >}}

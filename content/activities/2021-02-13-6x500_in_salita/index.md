@@ -16,6 +16,8 @@ places: ["bioggio","agno"]
 
 Cielo coperto, -1°C, Percepito -6°C, Umidità 55%, Vento 3m/s da OSO - Klimat.app
 
+<!--more-->
+
 
 
 {{< figurelink src="20210213-activity-map.png" title="map" >}}

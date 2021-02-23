@@ -16,6 +16,8 @@ places: ["bioggio","agno","vernate","cimo","gaggio"]
 
 Per lo più soleggiato, 9°C, Percepito 7°C, Umidità 77%, Vento 1m/s da ONO - Klimat.app
 
+<!--more-->
+
 
 
 {{< figurelink src="20210129-activity-map.png" title="map" >}}

@@ -14,6 +14,8 @@ places: []
 ---
 
 Per lo più soleggiato, 9°C, Percepito 8°C, Umidità 56%, Vento 1m/s da SSO - Klimat.app
+
+<!--more-->
 {{< figurelink src="IMG_3065.jpg" >}}
 
 
