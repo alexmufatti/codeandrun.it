@@ -28,7 +28,6 @@ La salita da Bosco ad Arosio è stato bella tosta, non ricordavo che il sentiero
 
 Dopo la prima parte di discesa anche la salita del percorso vita non è stata un grosso problema: fa ben sperare!
 
-
 {{< figurelink src="20210219-activity-map.png" title="map" >}}
 
 {{< youtube TUWKTX093Z0 youtube >}}
