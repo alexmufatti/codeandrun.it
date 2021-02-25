@@ -31,5 +31,6 @@ Dopo la prima parte di discesa anche la salita del percorso vita non è stata un
 
 {{< figurelink src="20210219-activity-map.png" title="map" >}}
 
+{{< youtube TUWKTX093Z0 youtube >}}
 
 {{< strava id=4811879150 embedId=b17d863664560d6cda85cfc9621285f5765fc30c >}}

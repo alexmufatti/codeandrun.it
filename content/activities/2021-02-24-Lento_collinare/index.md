@@ -49,5 +49,8 @@ Un bel giro che si conclude con un perfetto 59min e 320mt D+, calcolo perfetto.
 
 {{< figurelink src="20210224-activity-map.png" title="map" >}}
 
+{{< youtube id="GsNYbUHCwqs" class="youtube" >}}
+
+
 
 {{< strava id=4841401217 embedId=c3e6a38cb6450951ff43b2d001a515cc7eb3ad2c >}}
