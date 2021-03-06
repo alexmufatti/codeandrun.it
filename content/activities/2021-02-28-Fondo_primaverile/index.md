@@ -1,8 +1,8 @@
 ---
 title: Fondo primaverile
 tags:
-- sport
-- running
+  - sport
+  - running
 date: 2021-02-28 15:06:41
 images: ["IMG_3553.jpg"," "20210228-activity-map.png"]
 activitydata:
