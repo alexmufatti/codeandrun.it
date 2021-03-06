@@ -1,16 +1,15 @@
 ---
 title: Fondo primaverile
 tags:
-  - sport
-  - running
+- sport
+- running
 date: 2021-02-28 15:06:41
-images: ["IMG_3553.jpg"," "20210228-activity-map.png"]
+images: ["IMG_3553.jpg","20210228-activity-map.png"]
 activitydata:
   pace: 4:43min/km
   elevation: 34mt
   distance: 9.71km
   duration: 45:45
-  
 places: ["bioggio","magliaso","agno"]
 ---
 
