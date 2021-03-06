@@ -24,6 +24,8 @@ Cielo sereno, 13°C, Percepito 11°C, Umidità 54%, Vento 2m/s da SSO - Klimat.a
 {{< figurelink src="IMG_3588.jpg" title="San Bernardo" >}}
 {{< figurelink src="IMG_3589.jpg" title="San Bernardo Nord" >}}
 
+{{< youtube ktt1mXZM7wE >}}
+
 {{< figurelink src="20210305-activity-map.png" title="map" >}}
 
 
