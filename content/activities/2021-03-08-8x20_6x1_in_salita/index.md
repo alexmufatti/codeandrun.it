@@ -10,7 +10,7 @@ activitydata:
   elevation: 244mt
   distance: 7.41km
   duration: 43:09
-places: ["bioggio]
+places: ["bioggio"]
 ---
 
 Cielo sereno, 11°C, Percepito 7°C, Umidità 50%, Vento 3m/s da S - Klimat.app
