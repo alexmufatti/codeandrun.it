@@ -4,7 +4,7 @@ tags:
 - sport
 - running
 date: 2021-03-08 12:53:25
-images: ["20210308-activity-map.png"]
+images: ["graph.png","20210308-activity-map.png"]
 activitydata:
   pace: 5:49min/km
   elevation: 244mt
@@ -19,7 +19,9 @@ Cielo sereno, 11°C, Percepito 7°C, Umidità 50%, Vento 3m/s da S - Klimat.app
 
 Allenamento di potenza in salita. Seconda vota che faccio lo stesso allenamento e oggi mi è parso i soffrire meglio nonostante il ritmo fosse più elevato dell'ultima volta.
 
-Dorse qualcosa sta migliorando!
+{{< figurelink src="graph.png" title="graph" >}}
+
+Forse qualcosa sta migliorando!
 
 {{< figurelink src="20210308-activity-map.png" title="map" >}}
 
