@@ -12,7 +12,6 @@ activitydata:
   duration: 45:54
 places: []
 
-draft: true
 ---
 
 Cielo sereno, 13°C, Percepito 10°C, Umidità 43%, Vento 2m/s da SSO - Klimat.app
