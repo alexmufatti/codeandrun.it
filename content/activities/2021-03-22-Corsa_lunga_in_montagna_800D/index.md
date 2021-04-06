@@ -18,6 +18,8 @@ Cielo sereno, 14°C, Percepito 9°C, Umidità 23%, Vento 3m/s da N - Klimat.app
 
 <!--more-->
 
+{{< youtube 85bC1LjzORw >}}
+
 Uscita di corsa lenta in montagna dopo una bella escursione con bimba in braccio su una lunga discesa a gradoni: forse non la migliore idea.
 
 {{< figurelink src="IMG_3655.jpg" title="salita" >}}
