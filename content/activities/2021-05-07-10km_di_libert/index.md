@@ -25,7 +25,7 @@ Garmin impietoso...
 
 {{< figurelink src="IMG_3851.jpg" title="recupero" >}}
 
-{{< figurelink src="IMG_3851.jpg" title="training" >}}
+{{< figurelink src="IMG_3852.jpg" title="training" >}}
 
 
 
