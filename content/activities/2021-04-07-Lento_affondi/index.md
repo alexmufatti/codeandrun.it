@@ -10,7 +10,7 @@ activitydata:
   elevation: 69mt
   distance: 10.61km
   duration: 53:05
-places: []
+places: ["bioggio","manno","vedeggio"]
 ---
 
 Poche nuvole, 9°C, Percepito 1°C, Umidità 15%, Vento 6m/s da N - Klimat.app

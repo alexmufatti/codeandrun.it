@@ -10,7 +10,7 @@ activitydata:
   elevation: 42mt
   distance: 10.62km
   duration: 53:57
-places: []
+places: ["bioggio","agno","magliaso"]
 
 ---
 

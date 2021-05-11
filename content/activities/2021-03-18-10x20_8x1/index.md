@@ -10,7 +10,7 @@ activitydata:
   elevation: 262mt
   distance: 7.56km
   duration: 44:36
-places: []
+places: ["bioggio","gaggio"]
 
 ---
 

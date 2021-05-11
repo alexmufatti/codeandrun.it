@@ -10,7 +10,7 @@ activitydata:
   elevation: 844mt
   distance: 17.36km
   duration: 2:04:15
-places: []
+places: ["bioggio","bosco luganese","arosio"]
 
 ---
 

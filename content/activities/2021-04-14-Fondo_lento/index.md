@@ -10,7 +10,7 @@ activitydata:
   elevation: 54mt
   distance: 12.01km
   duration: 58:08
-places: []
+places: ["bioggio","manno","vedeggio"]
 ---
 
 Cielo sereno, 11°C, Percepito 6°C, Umidità 28%, Vento 3m/s da SSO - Klimat.app

@@ -10,7 +10,7 @@ activitydata:
   elevation: 408mt
   distance: 10.23km
   duration: 1:08:22
-places: []
+places: ["bioggio","bosco luganese"]
 
 ---
 

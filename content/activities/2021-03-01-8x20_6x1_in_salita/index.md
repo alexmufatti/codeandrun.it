@@ -10,7 +10,7 @@ activitydata:
   elevation: 258mt
   distance: 8.04km
   duration: 45:54
-places: []
+places: ["biogio"]
 
 ---
 

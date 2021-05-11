@@ -1,9 +1,5 @@
 #!/bin/bash
-USER=mua
-HOST=mua02.alexmufatti.it
-DIR=/var/www/alexmufatti.it/   # the directory where your web site files should go
 
-
-/bin/rm -rf public/* && hugo && rsync -avz --delete public/ ${USER}@${HOST}:${DIR}
+hugo && s3cmd sync --reduced-redundancy --delete-removed --cf-invalidate public/* s3://codeandrun.it
 
 exit 0
