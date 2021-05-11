@@ -10,7 +10,7 @@ activitydata:
   elevation: 71mt
   distance: 11.20km
   duration: 52:38
-places: []
+places: ["bioggio", "manno", "bedano"]
 ---
 
 Cielo sereno, 12°C, Percepito 9°C, Umidità 46%, Vento 2m/s da S - Klimat.app

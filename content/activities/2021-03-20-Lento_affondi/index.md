@@ -10,7 +10,7 @@ activitydata:
   elevation: 61mt
   distance: 10.89km
   duration: 52:41
-places: []
+places: ["bioggio","manno","bedano"]
 
 ---
 

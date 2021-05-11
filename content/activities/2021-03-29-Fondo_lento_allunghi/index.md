@@ -10,7 +10,7 @@ activitydata:
   elevation: 51mt
   distance: 12.00km
   duration: 1:00:12
-places: []
+places: ["bioggio","agno","magliaso"]
 ---
 
 Cielo sereno, 18°C, Percepito 15°C, Umidità 42%, Vento 2m/s da S - Klimat.app

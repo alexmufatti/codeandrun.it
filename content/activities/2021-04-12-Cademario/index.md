@@ -10,7 +10,7 @@ activitydata:
   elevation: 488mt
   distance: 10.40km
   duration: 1:03:48
-places: []
+places: ["bioggio","bosco luganese","cademario"]
 ---
 
 Pioggia leggera, 8°C, Percepito 0°C, Umidità 76%, Vento 10m/s da N - Klimat.app

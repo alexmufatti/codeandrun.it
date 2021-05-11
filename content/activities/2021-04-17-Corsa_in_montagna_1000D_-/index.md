@@ -10,7 +10,7 @@ activitydata:
   elevation: 1022mt
   distance: 20.21km
   duration: 2:11:49
-places: []
+places: ["bioggio","bosco luganese","arosio"]
 ---
 
 Poche nuvole, 12°C, Percepito 8°C, Umidità 37%, Vento 3m/s da S - Klimat.app

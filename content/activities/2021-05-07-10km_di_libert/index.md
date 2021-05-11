@@ -10,7 +10,7 @@ activitydata:
   elevation: 48mt
   distance: 10.01km
   duration: 48:46
-places: []
+places: ["bioggio","manno","vedeggio"]
 ---
 
 Nubi sparse, 20°C, Percepito 18°C, Umidità 46%, Vento 2m/s da N - Klimat.app
