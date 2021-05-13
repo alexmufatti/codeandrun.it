@@ -10,7 +10,7 @@ activitydata:
   elevation: 65mt
   distance: 12.74km
   duration: 58:00
-places: []
+places: ["bioggio","manno","bedano","taverne"]
 ---
 
 Prevalentemente nuvoloso, 7°C, Percepito 7°C, Umidità 70%, Vento 1m/s da ONO - Klimat.app

@@ -10,7 +10,7 @@ activitydata:
   elevation: 73mt
   distance: 17.61km
   duration: 1:18:59
-places: []
+places: ["bioggio","magliaso","caslano"]
 ---
 
 Nuvoloso, 5°C, Percepito 5°C, Umidità 94%, Vento 1m/s da O - Klimat.app

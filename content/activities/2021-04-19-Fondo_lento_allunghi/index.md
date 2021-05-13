@@ -17,6 +17,7 @@ Cielo sereno, 15°C, Percepito 10°C, Umidità 27%, Vento 3m/s da SSO - Klimat.a
 
 <!--more-->
 
+
 {{< figurelink src="IMG_3812.jpg" title="Vedeggio" >}}
 
 

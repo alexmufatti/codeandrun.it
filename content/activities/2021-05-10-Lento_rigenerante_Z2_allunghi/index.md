@@ -14,7 +14,7 @@ places: ["bioggio","manno","vedeggio"]
 ---
 
 
-
+Lento rigenerante tranquillo in compagnia. I battiti sembra stiano tornando alla normalità e anche la fatica non è stata così alta come l'ultima volta.
 
 
 {{< figurelink src="20210510-activity-map.png" title="map" >}}

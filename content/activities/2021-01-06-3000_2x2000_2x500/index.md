@@ -10,7 +10,7 @@ activitydata:
   elevation: 45mt
   distance: 12.44km
   duration: 53:47
-places: []
+places: ["bioggio","agno"]
 ---
 
 Pioggia leggera, 1°C, Percepito 0°C, Umidità 100%, Vento 1m/s da SSO - Klimat.app
