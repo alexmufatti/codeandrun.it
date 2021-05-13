@@ -11,7 +11,7 @@ activitydata:
   distance: 13.52km
   duration: 1:17:11
 places: ["bioggio","gaggio"]
-
+training_types: ["salita","ripetute"]
 ---
 
 Cielo sereno, 12°C, Percepito 9°C, Umidità 50%, Vento 2m/s da SSO - Klimat.app

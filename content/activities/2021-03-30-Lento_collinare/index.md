@@ -11,6 +11,7 @@ activitydata:
   distance: 10.83km
   duration: 1:03:11
 places: ["bioggio","agno","vernate","gaggio"]
+training_types: ["collinare"]
 ---
 
 Cielo sereno, 19°C, Percepito 16°C, Umidità 39%, Vento 3m/s da S - Klimat.app

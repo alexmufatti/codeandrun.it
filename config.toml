@@ -55,3 +55,4 @@ rssLimit = 30
 [taxonomies]
     tag="tags"
     place="places"
+    type="training_types"

@@ -11,6 +11,7 @@ activitydata:
   distance: 20.21km
   duration: 2:11:49
 places: ["bioggio","bosco luganese","arosio"]
+training_types: ["salita"]
 ---
 
 Poche nuvole, 12°C, Percepito 8°C, Umidità 37%, Vento 3m/s da S - Klimat.app

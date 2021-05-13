@@ -11,6 +11,7 @@ activitydata:
   distance: 10.01km
   duration: 48:46
 places: ["bioggio","manno","vedeggio"]
+training_types: ["easy"]
 ---
 
 Nubi sparse, 20°C, Percepito 18°C, Umidità 46%, Vento 2m/s da N - Klimat.app

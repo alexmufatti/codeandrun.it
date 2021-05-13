@@ -11,6 +11,7 @@ activitydata:
   distance: 10.01km
   duration: 46:57
 places: ["bioggio","manno","vedeggio"]
+training_types: ["fondo", "rigenerante", "Z2"]
 ---
 
 Cielo sereno, 15°C, Percepito 10°C, Umidità 27%, Vento 3m/s da SSO - Klimat.app

@@ -11,6 +11,7 @@ activitydata:
   distance: 18.01km
   duration: 1:25:58
 places: ["bioggio","caslano","magliaso"]
+training_types: ["lento","FL"]
 ---
 
 Cielo sereno, 22°C, Percepito 19°C, Umidità 40%, Vento 2m/s da SSO - Klimat.app

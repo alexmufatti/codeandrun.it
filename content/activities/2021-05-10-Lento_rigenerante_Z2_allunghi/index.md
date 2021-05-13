@@ -11,6 +11,7 @@ activitydata:
   distance: 10.02km
   duration: 52:23
 places: ["bioggio","manno","vedeggio"]
+training_types: ["fondo", "rigenerante", "Z2"]
 ---
 
 
