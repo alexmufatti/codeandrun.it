@@ -4,7 +4,7 @@ tags:
 - sport
 - running
 date: 2021-05-14 13:00:41
-images: ["IMG_3872,jpg","20210514-activity-map.png"]
+images: ["IMG_3872.jpg","20210514-activity-map.png"]
 activitydata:
   pace: 5:29min/km
   elevation: 236mt
@@ -26,7 +26,7 @@ Il percorso però merita, evitando un paio di vie trafficatissime.
 
 
 
-{{< figurelink src="IMG_3872.jpg" title="ago di Muzzano" >}}
+{{< figurelink src="IMG_3872.jpg" title="Lago di Muzzano" >}}
 
 {{< figurelink src="20210514-activity-map.png" title="map" >}}
 
