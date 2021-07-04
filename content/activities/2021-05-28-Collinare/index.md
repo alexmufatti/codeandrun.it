@@ -4,7 +4,7 @@ tags:
 - sport
 - running
 date: 2021-05-28 12:07:42
-images: ["IMG_3958.jpg","IMG_3958.jpg","20210528-activity-map.png"]
+images: ["IMG_3958.jpg","IMG_3957.jpg","20210528-activity-map.png"]
 activitydata:
   pace: 7:36min/km
   elevation: 453mt
@@ -26,7 +26,7 @@ Salita impegnativa, tutta a gradini con pendenze proibitive a parte una piccola 
 
 Decidiamo di accorciare la salita senza arrivare fino all'alpe Vicania ma andando direttamente a Carona.
 
-{{< figurelink src="IMG_3959.jpg" title="paesaggio" >}}
+{{< figurelink src="IMG_3957.jpg" title="paesaggio" >}}
 
 Discesa sempre impegnativa ma almeno il fondo è più corribile.
 
