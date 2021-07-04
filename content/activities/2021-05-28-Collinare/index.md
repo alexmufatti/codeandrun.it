@@ -10,7 +10,7 @@ activitydata:
   elevation: 453mt
   distance: 10.18km
   duration: 1:17:26
-places: ["melide", "Vico Morcote"]
+places: ["melide", "vico morcote"]
 training_types: ["collinare"]
 ---
 
